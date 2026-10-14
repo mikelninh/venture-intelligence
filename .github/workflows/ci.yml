@@ -23,9 +23,9 @@ jobs:
         run: test -f backend/evals/gold.json && test -f backend/demo/novasense.pdf
       - name: Prove real LangGraph pipeline
         env:
-          PYTHONPATH: backend
+          PYTHONPATH: .:backend
           VI_WORKFLOW_ENGINE: langgraph
-        run: pytest -q backend/tests
+        run: python -m pytest -q backend/tests
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: '22'
