@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+backend/data/
+*.pyc
+__pycache__/
+.pytest_cache/
+.env
+.pdf-check/
+.playwright/

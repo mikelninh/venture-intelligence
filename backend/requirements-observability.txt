@@ -1,0 +1,2 @@
+-r requirements-agent.txt
+langfuse>=3,<4

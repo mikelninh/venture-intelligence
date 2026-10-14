@@ -1,0 +1,4 @@
+-r requirements.txt
+langgraph>=0.2,<2
+# Optional remote observability (opt-in and metadata only):
+# langfuse>=3,<4

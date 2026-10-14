@@ -1,0 +1,388 @@
+{
+  "version": "eval-v1",
+  "dataset": "30 synthetic labelled decks, 6 scenario types",
+  "gold_version": "gold-v1",
+  "note": "Field-level exact-match evaluation against deliberately synthetic labels; NOT model confidence, investment quality or external validation.",
+  "metrics": {
+    "cases": 30,
+    "fields": 510,
+    "exact_match_correct": 505,
+    "exact_match_pct": 99.0,
+    "expected_present": 415,
+    "correct_present": 410,
+    "retrieval_of_expected_pct": 98.8,
+    "required_abstentions": 95,
+    "correct_abstentions": 95,
+    "abstention_pct": 100.0,
+    "unsupported_source_links": 0,
+    "contradictions_detected": 5,
+    "contradiction_cases": 5
+  },
+  "cases": [
+    {
+      "id": "CASE-01",
+      "scenario": "complete",
+      "file": "case_01_complete.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 16.7,
+      "narrative": "Complete structured baseline case"
+    },
+    {
+      "id": "CASE-02",
+      "scenario": "missing",
+      "file": "case_02_missing.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 4.5,
+      "narrative": "Explicitly omitted fields should remain missing"
+    },
+    {
+      "id": "CASE-03",
+      "scenario": "two_line",
+      "file": "case_03_two_line.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 4.9,
+      "narrative": "Split labels and values test layout robustness"
+    },
+    {
+      "id": "CASE-04",
+      "scenario": "synonym",
+      "file": "case_04_synonym.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.5,
+      "narrative": "Alias labels test extraction coverage"
+    },
+    {
+      "id": "CASE-05",
+      "scenario": "conflicting",
+      "file": "case_05_conflicting.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": true,
+      "elapsed_ms": 5.6,
+      "narrative": "Two incompatible traction claims; safe system should abstain"
+    },
+    {
+      "id": "CASE-06",
+      "scenario": "unlabelled",
+      "file": "case_06_unlabelled.pdf",
+      "correct": 16,
+      "total": 17,
+      "errors": [
+        {
+          "field": "team",
+          "expected": "Two fictional cofounders from cohort 5",
+          "actual": null,
+          "type": "missing"
+        }
+      ],
+      "conflict_detected": false,
+      "elapsed_ms": 4.0,
+      "narrative": "Human-readable team detail uses a label unseen by strict baseline"
+    },
+    {
+      "id": "CASE-07",
+      "scenario": "complete",
+      "file": "case_07_complete.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.3,
+      "narrative": "Complete structured baseline case"
+    },
+    {
+      "id": "CASE-08",
+      "scenario": "missing",
+      "file": "case_08_missing.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 4.7,
+      "narrative": "Explicitly omitted fields should remain missing"
+    },
+    {
+      "id": "CASE-09",
+      "scenario": "two_line",
+      "file": "case_09_two_line.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.4,
+      "narrative": "Split labels and values test layout robustness"
+    },
+    {
+      "id": "CASE-10",
+      "scenario": "synonym",
+      "file": "case_10_synonym.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.5,
+      "narrative": "Alias labels test extraction coverage"
+    },
+    {
+      "id": "CASE-11",
+      "scenario": "conflicting",
+      "file": "case_11_conflicting.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": true,
+      "elapsed_ms": 6.8,
+      "narrative": "Two incompatible traction claims; safe system should abstain"
+    },
+    {
+      "id": "CASE-12",
+      "scenario": "unlabelled",
+      "file": "case_12_unlabelled.pdf",
+      "correct": 16,
+      "total": 17,
+      "errors": [
+        {
+          "field": "team",
+          "expected": "Two fictional cofounders from cohort 11",
+          "actual": null,
+          "type": "missing"
+        }
+      ],
+      "conflict_detected": false,
+      "elapsed_ms": 5.0,
+      "narrative": "Human-readable team detail uses a label unseen by strict baseline"
+    },
+    {
+      "id": "CASE-13",
+      "scenario": "complete",
+      "file": "case_13_complete.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 6.0,
+      "narrative": "Complete structured baseline case"
+    },
+    {
+      "id": "CASE-14",
+      "scenario": "missing",
+      "file": "case_14_missing.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 4.8,
+      "narrative": "Explicitly omitted fields should remain missing"
+    },
+    {
+      "id": "CASE-15",
+      "scenario": "two_line",
+      "file": "case_15_two_line.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 6.3,
+      "narrative": "Split labels and values test layout robustness"
+    },
+    {
+      "id": "CASE-16",
+      "scenario": "synonym",
+      "file": "case_16_synonym.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 7.1,
+      "narrative": "Alias labels test extraction coverage"
+    },
+    {
+      "id": "CASE-17",
+      "scenario": "conflicting",
+      "file": "case_17_conflicting.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": true,
+      "elapsed_ms": 6.2,
+      "narrative": "Two incompatible traction claims; safe system should abstain"
+    },
+    {
+      "id": "CASE-18",
+      "scenario": "unlabelled",
+      "file": "case_18_unlabelled.pdf",
+      "correct": 16,
+      "total": 17,
+      "errors": [
+        {
+          "field": "team",
+          "expected": "Two fictional cofounders from cohort 17",
+          "actual": null,
+          "type": "missing"
+        }
+      ],
+      "conflict_detected": false,
+      "elapsed_ms": 4.6,
+      "narrative": "Human-readable team detail uses a label unseen by strict baseline"
+    },
+    {
+      "id": "CASE-19",
+      "scenario": "complete",
+      "file": "case_19_complete.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.6,
+      "narrative": "Complete structured baseline case"
+    },
+    {
+      "id": "CASE-20",
+      "scenario": "missing",
+      "file": "case_20_missing.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 6.8,
+      "narrative": "Explicitly omitted fields should remain missing"
+    },
+    {
+      "id": "CASE-21",
+      "scenario": "two_line",
+      "file": "case_21_two_line.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.9,
+      "narrative": "Split labels and values test layout robustness"
+    },
+    {
+      "id": "CASE-22",
+      "scenario": "synonym",
+      "file": "case_22_synonym.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.9,
+      "narrative": "Alias labels test extraction coverage"
+    },
+    {
+      "id": "CASE-23",
+      "scenario": "conflicting",
+      "file": "case_23_conflicting.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": true,
+      "elapsed_ms": 5.7,
+      "narrative": "Two incompatible traction claims; safe system should abstain"
+    },
+    {
+      "id": "CASE-24",
+      "scenario": "unlabelled",
+      "file": "case_24_unlabelled.pdf",
+      "correct": 16,
+      "total": 17,
+      "errors": [
+        {
+          "field": "team",
+          "expected": "Two fictional cofounders from cohort 23",
+          "actual": null,
+          "type": "missing"
+        }
+      ],
+      "conflict_detected": false,
+      "elapsed_ms": 3.7,
+      "narrative": "Human-readable team detail uses a label unseen by strict baseline"
+    },
+    {
+      "id": "CASE-25",
+      "scenario": "complete",
+      "file": "case_25_complete.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 8.1,
+      "narrative": "Complete structured baseline case"
+    },
+    {
+      "id": "CASE-26",
+      "scenario": "missing",
+      "file": "case_26_missing.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.6,
+      "narrative": "Explicitly omitted fields should remain missing"
+    },
+    {
+      "id": "CASE-27",
+      "scenario": "two_line",
+      "file": "case_27_two_line.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.9,
+      "narrative": "Split labels and values test layout robustness"
+    },
+    {
+      "id": "CASE-28",
+      "scenario": "synonym",
+      "file": "case_28_synonym.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": false,
+      "elapsed_ms": 5.6,
+      "narrative": "Alias labels test extraction coverage"
+    },
+    {
+      "id": "CASE-29",
+      "scenario": "conflicting",
+      "file": "case_29_conflicting.pdf",
+      "correct": 17,
+      "total": 17,
+      "errors": [],
+      "conflict_detected": true,
+      "elapsed_ms": 6.6,
+      "narrative": "Two incompatible traction claims; safe system should abstain"
+    },
+    {
+      "id": "CASE-30",
+      "scenario": "unlabelled",
+      "file": "case_30_unlabelled.pdf",
+      "correct": 16,
+      "total": 17,
+      "errors": [
+        {
+          "field": "team",
+          "expected": "Two fictional cofounders from cohort 29",
+          "actual": null,
+          "type": "missing"
+        }
+      ],
+      "conflict_detected": false,
+      "elapsed_ms": 4.0,
+      "narrative": "Human-readable team detail uses a label unseen by strict baseline"
+    }
+  ]
+}

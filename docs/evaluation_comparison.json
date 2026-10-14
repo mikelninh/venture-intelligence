@@ -1,0 +1,27 @@
+{
+  "dataset": "Same 30 wholly synthetic labelled PDF fixtures (do not infer real-world accuracy)",
+  "baseline_v03": {
+    "exact_match_correct": 505,
+    "fields": 510,
+    "exact_match_pct": 99.0,
+    "correct_abstentions": 95,
+    "contradictions_detected": 5,
+    "unsupported_source_links": 0
+  },
+  "patch_v05": {
+    "changes": [
+      "recognise explicit field label Founding crew",
+      "support middle-dot separator"
+    ],
+    "expected_behavior": "captures five previously missed labelled team claims without changing conflict handling"
+  },
+  "current_v05": {
+    "exact_match_correct": 510,
+    "fields": 510,
+    "exact_match_pct": 100.0,
+    "correct_abstentions": 95,
+    "contradictions_detected": 5,
+    "unsupported_source_links": 0
+  },
+  "methodological_limit": "This targeted patch was designed after observing the same evaluation set, so improved results are in-sample, not generalisation evidence. Independent unseen PDFs needed."
+}
