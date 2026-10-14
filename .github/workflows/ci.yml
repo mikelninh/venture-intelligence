@@ -21,6 +21,18 @@ jobs:
         run: python -m pip install -r backend/requirements-agent.txt -r backend/requirements-dev.txt
       - name: Test against committed, unchanged synthetic fixtures and gold labels
         run: test -f backend/evals/gold.json && test -f backend/demo/novasense.pdf
+      - name: Evaluate frozen varied-layout PDF holdout
+        run: |
+          python scripts/evaluate_unseen.py
+          python - <<'PY'
+          import json
+          r=json.load(open("docs/unseen_evaluation.json"))
+          assert r["cases"]==12 and r["metrics"]["total"]==72
+          assert r["metrics"]["unsupported_citations"]==0
+          assert r["metrics"]["conflicts_detected"]==2
+          assert r["metrics"]["correct_value"]>=54
+          print("Holdout:",r["metrics"]["correct_value"],"/",r["metrics"]["total"])
+          PY
       - name: Prove real LangGraph pipeline
         env:
           PYTHONPATH: .:backend
