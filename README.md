@@ -1,3 +1,15 @@
+## New in v0.6: Venture Pulse
+
+**[Open the live daily brief →](https://mikelninh.github.io/venture-pulse/)**
+
+A quiet, source-linked public startup research assistant: HTGF + EU-Startups RSS, daily scheduled change detection, topic filtering, three highest-priority signals, a human verification step, and browser-local feedback.
+
+**[Engineering note & measured limitations](docs/VENTURE_PULSE.md)** · **[Live GitHub Actions](https://github.com/mikelninh/venture-intelligence/actions/workflows/venture-pulse.yml)** · **[Read the snapshot](data/pulse/latest.json)**
+
+The first collection records a reference **baseline**, not new news. The collector identifies article updates—not verified business events—and uses deterministic heuristics, not autonomous LLM analysis.
+
+---
+
 # Venture Intelligence v0.5 — From PDF to a verifiable human-review briefing
 
 > **Great ideas deserve a chance to be understood.** An independent engineering portfolio exercise, not an HTGF application or investment recommendation tool.
