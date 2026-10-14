@@ -54,7 +54,6 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           rm -rf _bootstrap
-          rm .github/workflows/bootstrap-import.yml
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m 'feat: publish complete evidence-first Venture Intelligence v0.5'
