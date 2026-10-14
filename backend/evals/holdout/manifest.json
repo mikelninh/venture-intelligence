@@ -1,0 +1,498 @@
+{
+  "version": "holdout-v1.0",
+  "purpose": "New synthetic layouts, not used to tune the production parser; no founder data",
+  "fields": [
+    "company",
+    "stage",
+    "funding_sought",
+    "traction",
+    "team",
+    "problem"
+  ],
+  "cases": [
+    {
+      "id": "H01",
+      "layout": "classic-labelled",
+      "name": "NoriCell",
+      "lines": [
+        "Company: NoriCell",
+        "Stage: Pre-seed",
+        "Funding sought: EUR 1.4m",
+        "Traction: 3 paid feasibility studies",
+        "Team: Dr. Elena Fischer and Paul Nyugen",
+        "Problem: Cell culture requires costly manual monitoring"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "NoriCell"
+        ],
+        "stage": [
+          "supported",
+          "Pre-seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 1.4m"
+        ],
+        "traction": [
+          "supported",
+          "3 paid feasibility studies"
+        ],
+        "team": [
+          "supported",
+          "Dr. Elena Fischer and Paul Nyugen"
+        ],
+        "problem": [
+          "supported",
+          "Cell culture requires costly manual monitoring"
+        ]
+      }
+    },
+    {
+      "id": "H02",
+      "layout": "classic-labelled",
+      "name": "FennelGrid",
+      "lines": [
+        "Company: FennelGrid",
+        "Stage: Seed",
+        "Funding sought: EUR 2m",
+        "Traction: 8 industrial demo projects",
+        "Team: Two power systems engineers",
+        "Problem: Factory demand peaks are costly"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "FennelGrid"
+        ],
+        "stage": [
+          "supported",
+          "Seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 2m"
+        ],
+        "traction": [
+          "supported",
+          "8 industrial demo projects"
+        ],
+        "team": [
+          "supported",
+          "Two power systems engineers"
+        ],
+        "problem": [
+          "supported",
+          "Factory demand peaks are costly"
+        ]
+      }
+    },
+    {
+      "id": "H03",
+      "layout": "classic-labelled",
+      "name": "MapleSensors",
+      "lines": [
+        "Company: MapleSensors",
+        "Stage: Pre-seed",
+        "Funding sought: EUR 900k",
+        "Traction: 2 signed laboratory contracts",
+        "Team: Mira and Samir, material scientists",
+        "Problem: Cold chains lose product to undetected heat"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "MapleSensors"
+        ],
+        "stage": [
+          "supported",
+          "Pre-seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 900k"
+        ],
+        "traction": [
+          "supported",
+          "2 signed laboratory contracts"
+        ],
+        "team": [
+          "supported",
+          "Mira and Samir, material scientists"
+        ],
+        "problem": [
+          "supported",
+          "Cold chains lose product to undetected heat"
+        ]
+      }
+    },
+    {
+      "id": "H04",
+      "layout": "two-line",
+      "name": "MossRobotics",
+      "lines": [
+        "Company",
+        "MossRobotics",
+        "Stage",
+        "Seed",
+        "Funding sought",
+        "EUR 1.8m",
+        "Traction",
+        "5 pilot factories",
+        "Team",
+        "Three robotics graduates",
+        "Problem",
+        "Warehouse routes are costly to reconfigure"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "MossRobotics"
+        ],
+        "stage": [
+          "supported",
+          "Seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 1.8m"
+        ],
+        "traction": [
+          "supported",
+          "5 pilot factories"
+        ],
+        "team": [
+          "supported",
+          "Three robotics graduates"
+        ],
+        "problem": [
+          "supported",
+          "Warehouse routes are costly to reconfigure"
+        ]
+      }
+    },
+    {
+      "id": "H05",
+      "layout": "two-line",
+      "name": "SableAI",
+      "lines": [
+        "Company",
+        "SableAI",
+        "Stage",
+        "Pre-seed",
+        "Funding sought",
+        "EUR 1m",
+        "Traction",
+        "12 test users",
+        "Team",
+        "Nila Rao and Tim Becker",
+        "Problem",
+        "Maintenance staff lack searchable equipment histories"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "SableAI"
+        ],
+        "stage": [
+          "supported",
+          "Pre-seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 1m"
+        ],
+        "traction": [
+          "supported",
+          "12 test users"
+        ],
+        "team": [
+          "supported",
+          "Nila Rao and Tim Becker"
+        ],
+        "problem": [
+          "supported",
+          "Maintenance staff lack searchable equipment histories"
+        ]
+      }
+    },
+    {
+      "id": "H06",
+      "layout": "alternate-labels",
+      "name": "TidalGlass",
+      "lines": [
+        "Startup: TidalGlass",
+        "Funding stage: Seed",
+        "Round size: EUR 3m",
+        "Key metrics: 7 partner laboratories",
+        "Founders: Ana Weber and Jonas Deen",
+        "Problem: Material screening takes too long"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "TidalGlass"
+        ],
+        "stage": [
+          "supported",
+          "Seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 3m"
+        ],
+        "traction": [
+          "supported",
+          "7 partner laboratories"
+        ],
+        "team": [
+          "supported",
+          "Ana Weber and Jonas Deen"
+        ],
+        "problem": [
+          "supported",
+          "Material screening takes too long"
+        ]
+      }
+    },
+    {
+      "id": "H07",
+      "layout": "prose",
+      "name": "AcornDiagnostics",
+      "lines": [
+        "ACORNDIAGNOSTICS",
+        "What we are building",
+        "AcornDiagnostics is seeking EUR 1.1m in a pre-seed financing round.",
+        "We currently work with 6 university labs on paid research collaborations.",
+        "The founding team combines a lab scientist and a software engineer.",
+        "Smaller hospitals lack timely microbial screening."
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "AcornDiagnostics"
+        ],
+        "stage": [
+          "supported",
+          "Pre-seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 1.1m"
+        ],
+        "traction": [
+          "supported",
+          "6 university labs on paid research collaborations"
+        ],
+        "team": [
+          "supported",
+          "a lab scientist and a software engineer"
+        ],
+        "problem": [
+          "supported",
+          "Smaller hospitals lack timely microbial screening"
+        ]
+      }
+    },
+    {
+      "id": "H08",
+      "layout": "prose",
+      "name": "SunbeamFoundry",
+      "lines": [
+        "SUNBEAM FOUNDRY",
+        "The opportunity",
+        "SunbeamFoundry plans a EUR 2.5m seed round.",
+        "Four companies currently test our additive manufacturing process.",
+        "Our founding team includes former aerospace manufacturing engineers.",
+        "Specialist metal components are expensive to fabricate in small batches."
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "SunbeamFoundry"
+        ],
+        "stage": [
+          "supported",
+          "Seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 2.5m"
+        ],
+        "traction": [
+          "supported",
+          "Four companies currently test our additive manufacturing process"
+        ],
+        "team": [
+          "supported",
+          "former aerospace manufacturing engineers"
+        ],
+        "problem": [
+          "supported",
+          "Specialist metal components are expensive to fabricate in small batches"
+        ]
+      }
+    },
+    {
+      "id": "H09",
+      "layout": "prose",
+      "name": "AsterField",
+      "lines": [
+        "ASTERFIELD",
+        "A note from the founders",
+        "We're a pre-seed venture raising EUR 750k to build tools for regenerative agriculture.",
+        "There are nine farms in our feedback cohort, but no paying customers yet.",
+        "Founded by a soil researcher and a former farm operator.",
+        "Farmers struggle to assess soil outcomes without expensive sampling."
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "AsterField"
+        ],
+        "stage": [
+          "supported",
+          "Pre-seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 750k"
+        ],
+        "traction": [
+          "supported",
+          "nine farms in our feedback cohort, but no paying customers yet"
+        ],
+        "team": [
+          "supported",
+          "a soil researcher and a former farm operator"
+        ],
+        "problem": [
+          "supported",
+          "Farmers struggle to assess soil outcomes without expensive sampling"
+        ]
+      }
+    },
+    {
+      "id": "H10",
+      "layout": "conflicting",
+      "name": "OwlRobotics",
+      "lines": [
+        "Company: OwlRobotics",
+        "Stage: Seed",
+        "Funding sought: EUR 1.3m",
+        "Traction: 6 active pilots",
+        "Team: Daniel Cheung and Lara Huber",
+        "Problem: Manual warehouse counting is error-prone",
+        "Commercial progress",
+        "Traction: 60 active pilots"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "OwlRobotics"
+        ],
+        "stage": [
+          "supported",
+          "Seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 1.3m"
+        ],
+        "traction": [
+          "conflict",
+          null
+        ],
+        "team": [
+          "supported",
+          "Daniel Cheung and Lara Huber"
+        ],
+        "problem": [
+          "supported",
+          "Manual warehouse counting is error-prone"
+        ]
+      }
+    },
+    {
+      "id": "H11",
+      "layout": "conflicting",
+      "name": "DuneHealth",
+      "lines": [
+        "Company: DuneHealth",
+        "Stage: Pre-seed",
+        "Funding sought: EUR 850k",
+        "Traction: 2 clinical evaluation sites",
+        "Team: Dr. Leila Ozturk",
+        "Problem: Care teams have disconnected laboratory data",
+        "Additional slides",
+        "Traction: 20 clinical evaluation sites"
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "DuneHealth"
+        ],
+        "stage": [
+          "supported",
+          "Pre-seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 850k"
+        ],
+        "traction": [
+          "conflict",
+          null
+        ],
+        "team": [
+          "supported",
+          "Dr. Leila Ozturk"
+        ],
+        "problem": [
+          "supported",
+          "Care teams have disconnected laboratory data"
+        ]
+      }
+    },
+    {
+      "id": "H12",
+      "layout": "incomplete",
+      "name": "CedarQuantum",
+      "lines": [
+        "Company: CedarQuantum",
+        "Stage: Pre-seed",
+        "Funding sought: EUR 1.7m",
+        "Problem: Engineers cannot afford high-fidelity chemical simulation",
+        "Approach",
+        "Prototype architecture drafted. Revenue and team not yet disclosed."
+      ],
+      "expected": {
+        "company": [
+          "supported",
+          "CedarQuantum"
+        ],
+        "stage": [
+          "supported",
+          "Pre-seed"
+        ],
+        "funding_sought": [
+          "supported",
+          "EUR 1.7m"
+        ],
+        "traction": [
+          "missing",
+          null
+        ],
+        "team": [
+          "missing",
+          null
+        ],
+        "problem": [
+          "supported",
+          "Engineers cannot afford high-fidelity chemical simulation"
+        ]
+      }
+    }
+  ]
+}
