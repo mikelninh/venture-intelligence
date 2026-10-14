@@ -1,3 +1,31 @@
+# Venture Intelligence · Evidence-first AI Engineering
+
+**From early ideas to better questions.** An independent application project for an AI-engineering role in venture capital, built with Python, FastAPI, Pydantic and LangGraph. Not affiliated with HTGF.
+
+### Start here — 2 minutes for a reviewer
+
+| Experience | What to inspect |
+|---|---|
+| **[90-second interactive investigation ↗](https://mikelninh.github.io/venture-intelligence/?demo=investigation)** | NovaSense fictional case: two conflicting customer claims, clickable sources, human decision |
+| **[Complete PDF workflow in this repository ↗](backend/app/workflow.py)** | Real local PDF upload → extraction → citation verifier → explicit human review checkpoint |
+| **[Independent-ish synthetic layout test ↗](docs/UNSEEN_EVALUATION.md)** | Why the first 30 synthetic decks gave 100%, but 12 differently written decks reveal only **75%** exact-field accuracy |
+| **[Venture Pulse live daily brief ↗](https://mikelninh.github.io/venture-pulse/)** | Scheduled HTGF + EU-Startups RSS change detection; reported news, not confirmed startup events |
+| **[Automated CI checks ↗](https://github.com/mikelninh/venture-intelligence/actions/workflows/ci.yml)** | Real LangGraph in CI, regression suite, frozen new-layout benchmark, JavaScript syntax |
+
+### Engineering decisions that matter
+
+- **Evidence is not truth.** All accepted values link to exact extracted PDF text; cited founder claims can still be wrong.
+- **Abstain on contradictions.** If one PDF says 8 customers and another line says 80, neither figure is silently accepted.
+- **Keep authority with people.** A human must review. No funding decisions or external outreach are automated.
+- **Measure failure honestly.** Previous in-sample test set: 510/510 after a targeted fix; varied-layout stress test: **54/72**, with 18 misses on prose-first decks. Both sets are synthetic, not a production accuracy claim.
+- **Separate systems.** Venture Intelligence processes PDFs locally; the public website is a safe static guided case study. Venture Pulse is deterministic daily RSS processing, **not** an LLM research agent.
+
+### What I would improve next
+
+Context-aware candidate extraction for natural-language slides **with a deterministic citation verifier**, measured on a new human-labelled set. Then real user feedback from investment analysts and accountable deployment controls. I would rather explain one real failure clearly than market a prototype as production-ready.
+
+---
+
 ## New in v0.6: Venture Pulse
 
 **[Open the live daily brief →](https://mikelninh.github.io/venture-pulse/)**
@@ -84,6 +112,6 @@ All companies and claims in bundled PDFs are **fictional**. Uploaded PDFs should
 
 Technologies: **Python · FastAPI · Pydantic · PyMuPDF · LangGraph (optional installed engine) · SQLite · HTML/CSS/JS · pytest · Playwright**.
 
-## Possible next product iteration (not implemented)
+## The Venture Pulse extension
 
-[Product hypothesis: Venture Pulse](docs/PRODUCT_ROADMAP.md) explores whether tracking a few public companies/technologies and producing an evidence-linked, actionable change brief provides real user value. We will validate the need before treating daily usage as the goal.
+[Venture Pulse is implemented as a public daily RSS collector](docs/VENTURE_PULSE.md). It remains deterministic and does not yet validate human usefulness or operate as an autonomous agent.
