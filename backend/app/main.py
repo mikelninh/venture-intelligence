@@ -17,14 +17,14 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = Path(os.getenv('VI_DATA_DIR', str(ROOT / 'data')))
 store = Store(str(DATA_DIR / 'venture.db'))
 
-app = FastAPI(title='Venture Intelligence v0.5', version='0.5.0', description='Evidence-first startup briefings from PDFs; synthetic demos and local persistence.')
+app = FastAPI(title='Venture Intelligence v0.6', version='0.6.0', description='Evidence-first startup briefings from PDFs; synthetic demos and local persistence.')
 app.add_middleware(CORSMiddleware,
     allow_origins=[origin.strip() for origin in os.getenv('VI_ALLOWED_ORIGINS', 'http://localhost:5173,http://127.0.0.1:5173').split(',')],
     allow_methods=['GET', 'POST', 'PATCH'], allow_headers=['Content-Type'])
 
 @app.get('/api/health')
 def health():
-    return {'status': 'ok', 'version': '0.5.0', 'mode': 'evidence-first', 'llm_enabled': llm_configured(), 'workflow_engine': actual_engine(), 'remote_telemetry_enabled': os.getenv('VI_LANGFUSE_ENABLED')=='1'}
+    return {'status': 'ok', 'version': '0.6.0', 'mode': 'evidence-first', 'llm_enabled': llm_configured(), 'workflow_engine': actual_engine(), 'remote_telemetry_enabled': os.getenv('VI_LANGFUSE_ENABLED')=='1'}
 
 @app.get('/api/deals', response_model=list[DealListItem])
 def list_deals():
@@ -122,6 +122,28 @@ def get_demo_pdf(slug: str):
         raise HTTPException(status_code=404, detail='Unknown demo PDF.')
     path = ROOT / 'demo' / f'{slug}.pdf'
     return FileResponse(path, media_type='application/pdf', filename=f'{slug}-synthetic.pdf', content_disposition_type='inline')
+
+# Venture Pulse: read-only published snapshot. Never run arbitrary feed fetches
+# from an unauthenticated HTTP request; refresh happens through the daily job.
+@app.get('/api/pulse')
+def get_pulse():
+    import json
+    file_path = ROOT.parent / 'data' / 'pulse' / 'latest.json'
+    if not file_path.exists():
+        return {'status': 'not_initialized', 'first_run': True, 'items': [], 'change_count': 0,
+                'warnings': ['First scheduled public feed collection has not completed.']}
+    try:
+        return json.loads(file_path.read_text(encoding='utf-8'))
+    except (OSError, ValueError) as err:
+        raise HTTPException(status_code=503, detail='Pulse snapshot temporarily unavailable') from err
+
+PULSE_UI = ROOT.parent / 'frontend' / 'pulse' / 'index.html'
+@app.get('/pulse', include_in_schema=False)
+@app.get('/pulse/', include_in_schema=False)
+def pulse_page():
+    if not PULSE_UI.is_file():
+        raise HTTPException(status_code=404, detail='Pulse UI not installed locally')
+    return FileResponse(PULSE_UI)
 
 # Default UI is the browser-tested, dependency-free analyst workspace.
 # The old React/Vite proof of concept is archived under experiments/react-v01
