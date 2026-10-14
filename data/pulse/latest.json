@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-14T10:36:25+00:00",
+  "status": "ok",
+  "first_run": true,
+  "feed_count": 2,
+  "change_count": 0,
+  "items": [
+    {
+      "id": "f4100f6e2b3fd118dd9b",
+      "fingerprint": "315de1150e3f53459317",
+      "source": "HTGF News",
+      "title": "Finches Raises €2M Pre-Seed",
+      "url": "https://www.htgf.de/en/finches-raises-e2m-pre-seed/",
+      "summary": "Finches Raises €2 Million Pre-Seed Funding for AI Early-Warning-System in Agricultural Sourcing Climate shocks and geopolitical crises threaten global food supplies: Finches proactively protects manufacturers from raw material shortages and costly factory downtime. Finches has raised €2 million in a pre-seed funding round led by High-Tech Gründerfonds (HTGF), with Vanagon Ventures joining as co-le",
+      "published_at": "2026-10-08T04:00:00+00:00",
+      "topics": [
+        "AI & Agents",
+        "Climate & Energy",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 14,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "baseline_article"
+    },
+    {
+      "id": "996cb3ab62019a02e2d8",
+      "fingerprint": "bbb0c3b6a585a8e02cab",
+      "source": "HTGF News",
+      "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
+      "url": "https://www.htgf.de/en/today-secures-seed-funding/",
+      "summary": "TODAY Secures €2.8M for its Agentic AI Platform that accelerates Financial Advisors’ growth with compliant agents. Copenhagen- and Berlin-based AI startup UseToday ApS (TODAY) has successfully closed a €2.8M Seed round. High-Tech Gründerfonds (HTGF) and Insurtech Gateway co-led the round, with SeedX, Lucid Capital and angel investors participating. The investment will accelerate the development an",
+      "published_at": "2026-10-08T04:00:00+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 12,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "baseline_article"
+    },
+    {
+      "id": "b60a671b2f7434e7caa0",
+      "fingerprint": "62e7f9631d84a8e062df",
+      "source": "HTGF News",
+      "title": "Kontext raises $4M to stop AI agents from going rogue at work",
+      "url": "https://www.htgf.de/en/kontext-raises-4m-to-stop-ai-agents-from-going-rogue-at-work/",
+      "summary": "Kontext raises $4M to stop AI agents from going rogue at work Kontext, the runtime security platform for AI agents, today announced $4 million in funding. The company is backed by 42CAP, a16z CSX, and HTGF, with 42CAP leading the financing. The funding will support the expansion of Kontext’s engineering team, continued development of its […]",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 12,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "baseline_article"
+    }
+  ],
+  "warnings": [],
+  "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
+  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
+  "autonomous_external_actions": false
+}
