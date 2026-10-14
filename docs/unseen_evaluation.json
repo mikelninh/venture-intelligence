@@ -1,0 +1,305 @@
+{
+  "benchmark": "varied-layout-synthetic-v1",
+  "dataset_kind": "Synthetic PDFs with new layouts; no real investment decks",
+  "cases": 12,
+  "fields": [
+    "company",
+    "stage",
+    "funding_sought",
+    "traction",
+    "team",
+    "problem"
+  ],
+  "metrics": {
+    "total": 72,
+    "correct_status": 54,
+    "correct_value": 54,
+    "supported_gold": 68,
+    "supported_recovered": 50,
+    "missing_gold": 2,
+    "safe_abstentions": 2,
+    "conflict_gold": 2,
+    "conflicts_detected": 2,
+    "evidence_checks": 50,
+    "unsupported_citations": 0,
+    "status_accuracy_pct": 75,
+    "value_and_status_accuracy_pct": 75,
+    "supported_field_recall_pct": 73.5
+  },
+  "case_details": [
+    {
+      "id": "H01",
+      "layout": "classic-labelled",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H02",
+      "layout": "classic-labelled",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H03",
+      "layout": "classic-labelled",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H04",
+      "layout": "two-line",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H05",
+      "layout": "two-line",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H06",
+      "layout": "alternate-labels",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H07",
+      "layout": "prose",
+      "mismatches": 6,
+      "errors": [
+        {
+          "field": "company",
+          "expected": {
+            "status": "supported",
+            "value": "AcornDiagnostics"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "stage",
+          "expected": {
+            "status": "supported",
+            "value": "Pre-seed"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "funding_sought",
+          "expected": {
+            "status": "supported",
+            "value": "EUR 1.1m"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "traction",
+          "expected": {
+            "status": "supported",
+            "value": "6 university labs on paid research collaborations"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "team",
+          "expected": {
+            "status": "supported",
+            "value": "a lab scientist and a software engineer"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "problem",
+          "expected": {
+            "status": "supported",
+            "value": "Smaller hospitals lack timely microbial screening"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "layout": "prose",
+      "mismatches": 6,
+      "errors": [
+        {
+          "field": "company",
+          "expected": {
+            "status": "supported",
+            "value": "SunbeamFoundry"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "stage",
+          "expected": {
+            "status": "supported",
+            "value": "Seed"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "funding_sought",
+          "expected": {
+            "status": "supported",
+            "value": "EUR 2.5m"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "traction",
+          "expected": {
+            "status": "supported",
+            "value": "Four companies currently test our additive manufacturing process"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "team",
+          "expected": {
+            "status": "supported",
+            "value": "former aerospace manufacturing engineers"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "problem",
+          "expected": {
+            "status": "supported",
+            "value": "Specialist metal components are expensive to fabricate in small batches"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "layout": "prose",
+      "mismatches": 6,
+      "errors": [
+        {
+          "field": "company",
+          "expected": {
+            "status": "supported",
+            "value": "AsterField"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "stage",
+          "expected": {
+            "status": "supported",
+            "value": "Pre-seed"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "funding_sought",
+          "expected": {
+            "status": "supported",
+            "value": "EUR 750k"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "traction",
+          "expected": {
+            "status": "supported",
+            "value": "nine farms in our feedback cohort, but no paying customers yet"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "team",
+          "expected": {
+            "status": "supported",
+            "value": "a soil researcher and a former farm operator"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        },
+        {
+          "field": "problem",
+          "expected": {
+            "status": "supported",
+            "value": "Farmers struggle to assess soil outcomes without expensive sampling"
+          },
+          "actual": {
+            "status": "missing",
+            "value": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "layout": "conflicting",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H11",
+      "layout": "conflicting",
+      "mismatches": 0,
+      "errors": []
+    },
+    {
+      "id": "H12",
+      "layout": "incomplete",
+      "mismatches": 0,
+      "errors": []
+    }
+  ],
+  "caution": "Exploratory holdout; production parser was not tuned on these 12 fixtures. A citation means text appears in a document, not that the assertion is independently true."
+}
