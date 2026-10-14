@@ -54,6 +54,8 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           rm -rf _bootstrap
+          # Keep workflow files from current HEAD unchanged: the runner token lacks workflow-write permission.
+          git restore --source=HEAD -- .github/workflows/ci.yml
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m 'feat: publish complete evidence-first Venture Intelligence v0.5'
