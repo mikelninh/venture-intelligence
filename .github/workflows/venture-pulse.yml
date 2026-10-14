@@ -1,5 +1,10 @@
 name: Venture Pulse — daily public change detection
 on:
+  push:
+    paths:
+      - 'backend/app/pulse.py'
+      - 'backend/tests/test_pulse.py'
+      - '.github/workflows/venture-pulse.yml'
   workflow_dispatch:
   schedule:
     # 07:30 UTC daily (08:30 CET / 09:30 CEST), GitHub may delay cron
