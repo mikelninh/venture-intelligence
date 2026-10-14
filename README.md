@@ -4,6 +4,10 @@
 
 **This is the real local full-stack prototype**, distinct from the [static public 90-second case-study showcase](https://mikelninh.github.io/venture-intelligence/?demo=investigation).
 
+[![Python & LangGraph CI](https://github.com/mikelninh/venture-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/mikelninh/venture-intelligence/actions/workflows/ci.yml)
+
+**Independent GitHub Actions verification — 14 October 2026:** [20 Python tests passed](https://github.com/mikelninh/venture-intelligence/actions/runs/38544624819) using the **real LangGraph 1.2.15 package** with `VI_WORKFLOW_ENGINE=langgraph`. Frontend JavaScript syntax checking also passed. This complements the earlier offline verification (19 passed / 1 skipped when LangGraph was unavailable); it does not establish production reliability or real-world extraction accuracy.
+
 ## Try it in 2 minutes
 
 **Windows:** download the zip, extract it, run `start_windows.bat` (Python 3.11+; initial dependency install needs internet).
