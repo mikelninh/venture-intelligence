@@ -1,3 +1,9 @@
+## Independent CI verification (14 October 2026)
+
+GitHub Actions run [#38544624819](https://github.com/mikelninh/venture-intelligence/actions/runs/38544624819) completed successfully on Ubuntu 24.04, Python 3.12, with `langgraph==1.2.15` installed and `VI_WORKFLOW_ENGINE=langgraph`. Result: **20 pytest tests passed**, including the actual LangGraph execution path. The Node.js frontend syntax step also passed.
+
+These are synthetic regression tests, not production-level confidence measurements. The original isolated sandbox had 19 passes plus 1 skip; the CI run resolves that specific integration gap.
+
 # Release verification — v0.5
 
 ## Confirmed in this execution environment
