@@ -1,61 +1,61 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-10-14T10:36:25+00:00",
+  "updated_at": "2026-10-15T12:45:07+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
       "source": "HTGF News",
       "title": "Air Force Innovation Day 2026",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "445de2cc1c20b00bfa6a": {
       "fingerprint": "ca9db4a4cdd8a1b628ca",
       "source": "HTGF News",
       "title": "Zymofix to build flagship microbial manufacturing plant",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "e52610f5a606a5543c89": {
       "fingerprint": "9037dcd71699c85406ab",
       "source": "HTGF News",
       "title": "Jeroen Hoet on eyeo B.V.’s Sensor Breakthrough",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "d3905a02a15dc1bf2935": {
       "fingerprint": "a03a5cc105d0728c0e37",
       "source": "HTGF News",
       "title": "TrustNXT: What Makes Data Trustworthy for Autonomous Systems?",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "b60a671b2f7434e7caa0": {
       "fingerprint": "62e7f9631d84a8e062df",
       "source": "HTGF News",
       "title": "Kontext raises $4M to stop AI agents from going rogue at work",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "2de249f4e422779e16f2": {
       "fingerprint": "becc347ba4dd1c29c33b",
       "source": "HTGF News",
       "title": "Protection against sabotage: Arcos closes €5.5 million seed round for integrated security infrastructure",
-      "observed_at": "2026-10-14T10:36:25+00:00"
+      "observed_at": "2026-10-15T12:45:07+00:00"
     },
     "87a2ea7b1a5556306c8a": {
       "fingerprint": "3e2595aac9a2fb023932",
@@ -122,17 +122,83 @@
       "source": "EU-Startups",
       "title": "Whiterock deploys €82 million to support SME growth across Northern Ireland",
       "observed_at": "2026-10-14T10:36:25+00:00"
+    },
+    "265ae646211d8d6a4ccd": {
+      "fingerprint": "33dca6f662a1c13f15aa",
+      "source": "HTGF News",
+      "title": "Rabot Energy raises $50M in Series B",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "b19b65a230047b690dfa": {
+      "fingerprint": "dd264a6fb099b336b1e9",
+      "source": "EU-Startups",
+      "title": "Is EU Inc in trouble? European innovators warn landmark startup reform is being stripped of its purpose",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "f545fe1f0bef9d58c5a6": {
+      "fingerprint": "15b7a5936ed0ca9b8015",
+      "source": "EU-Startups",
+      "title": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "6b803ec4a9f808a600fa": {
+      "fingerprint": "23335c4c70792202532f",
+      "source": "EU-Startups",
+      "title": "Nvidia is investing heavily into Europe – why now?",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "62f81b2fc733ad814ad7": {
+      "fingerprint": "90d636f8e6743986df0a",
+      "source": "EU-Startups",
+      "title": "10 European startups fighting the next generation of AI cyber threats",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "3cf08f20fa8cdf818d83": {
+      "fingerprint": "9689b3bf871cbaf67506",
+      "source": "EU-Startups",
+      "title": "The EU-Startups Podcast | Interview with Cornel Amariei, CEO and founder of .lumen",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "964061dbde0b373cc84d": {
+      "fingerprint": "4234d171d460f9ba9622",
+      "source": "EU-Startups",
+      "title": "Vilnius-based Holo raises €5 million to put marketing on autopilot for small businesses",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "cb72aaeb2be8d4ae4abe": {
+      "fingerprint": "b82865a66a4158df3bca",
+      "source": "EU-Startups",
+      "title": "Oslo-based AI-native engineering firm Solvera raises €5.62 million pre-Seed after July 2026 launch",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "9b78523a72b4ef0e30b2": {
+      "fingerprint": "e1ef38789975284dc3d9",
+      "source": "EU-Startups",
+      "title": "Profitable French accounting company Dougs raises €50 million to accelerate AI automation",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "0d59150ec5c822eb9bd5": {
+      "fingerprint": "94815ba58d150d164f34",
+      "source": "EU-Startups",
+      "title": "Nauta secures €60 million first close for sixth fund to back European software and DeepTech startups",
+      "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "c7331e805a3a691bbb90": {
+      "fingerprint": "6b9139c7e1c1073b06a8",
+      "source": "EU-Startups",
+      "title": "New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US",
+      "observed_at": "2026-10-15T12:45:07+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-10-14T10:36:25+00:00",
+      "fetched_at": "2026-10-15T12:45:07+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-10-14T10:36:25+00:00",
+      "fetched_at": "2026-10-15T12:45:07+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"

@@ -1,65 +1,64 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-14T10:36:25+00:00",
+  "generated_at": "2026-10-15T12:45:07+00:00",
   "status": "ok",
-  "first_run": true,
+  "first_run": false,
   "feed_count": 2,
-  "change_count": 0,
+  "change_count": 10,
   "items": [
     {
-      "id": "f4100f6e2b3fd118dd9b",
-      "fingerprint": "315de1150e3f53459317",
+      "id": "265ae646211d8d6a4ccd",
+      "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
-      "title": "Finches Raises €2M Pre-Seed",
-      "url": "https://www.htgf.de/en/finches-raises-e2m-pre-seed/",
-      "summary": "Finches Raises €2 Million Pre-Seed Funding for AI Early-Warning-System in Agricultural Sourcing Climate shocks and geopolitical crises threaten global food supplies: Finches proactively protects manufacturers from raw material shortages and costly factory downtime. Finches has raised €2 million in a pre-seed funding round led by High-Tech Gründerfonds (HTGF), with Vanagon Ventures joining as co-le",
-      "published_at": "2026-10-08T04:00:00+00:00",
+      "title": "Rabot Energy raises $50M in Series B",
+      "url": "https://www.htgf.de/en/rabot-energy-raises-50m-in-series-b/",
+      "summary": "Rabot Energy raises $50M: Turning millions of households into a virtual power plant Rabot Energy, the market leader in dynamic electricity tariffs, has closed a Series B funding round of 50 million. Endeit, a growth capital investor specialising in European tech scale-ups, is joining the round as lead investor alongside the DeepTech & Climate Fonds […]",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "topics": [
-        "AI & Agents",
         "Climate & Energy",
         "Early-stage funding"
       ],
       "event": "funding",
-      "priority": 14,
+      "priority": 12,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
-      "change_type": "baseline_article"
+      "change_type": "new_article"
     },
     {
-      "id": "996cb3ab62019a02e2d8",
-      "fingerprint": "bbb0c3b6a585a8e02cab",
-      "source": "HTGF News",
-      "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "url": "https://www.htgf.de/en/today-secures-seed-funding/",
-      "summary": "TODAY Secures €2.8M for its Agentic AI Platform that accelerates Financial Advisors’ growth with compliant agents. Copenhagen- and Berlin-based AI startup UseToday ApS (TODAY) has successfully closed a €2.8M Seed round. High-Tech Gründerfonds (HTGF) and Insurtech Gateway co-led the round, with SeedX, Lucid Capital and angel investors participating. The investment will accelerate the development an",
-      "published_at": "2026-10-08T04:00:00+00:00",
+      "id": "f545fe1f0bef9d58c5a6",
+      "fingerprint": "15b7a5936ed0ca9b8015",
+      "source": "EU-Startups",
+      "title": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech",
+      "url": "https://www.eu-startups.com/2026/10/italys-panakes-partners-launches-e8-5-million-investment-vehicle-targeting-lombardys-medtech-and-biotech-sectors/",
+      "summary": "Milan’s Panakès Partners has raised 8.5 million euros from Lombardia Venture STEP, the venture capital fund of funds promoted by the Lombardy Region in order to invest in companies that are active in life sciences, MedTech and BioTech sectors. Lombardia Venture STEP, financed by European funds from the PR FESR Lombardy 2021-2027 and managed by […] The post Italy’s Panakès Partners launches €8.5 mi",
+      "published_at": "2026-10-15T10:57:53+00:00",
+      "topics": [
+        "Life Sciences",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "6b803ec4a9f808a600fa",
+      "fingerprint": "23335c4c70792202532f",
+      "source": "EU-Startups",
+      "title": "Nvidia is investing heavily into Europe – why now?",
+      "url": "https://www.eu-startups.com/2026/10/nvidia-is-investing-heavily-into-europe-why-now/",
+      "summary": "NVIDIA has had a busy week on this side of the pond. From announcing new investments in British and French startups to launching collaborations in Sweden, supporting AI research and bringing developers together in Barcelona, Paris and London, the US chipmaker appears determined to play a bigger role in the continent’s technological future. The activity […] The post Nvidia is investing heavily into",
+      "published_at": "2026-10-15T10:37:00+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
       ],
       "event": "funding",
-      "priority": 12,
+      "priority": 6,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
-      "change_type": "baseline_article"
-    },
-    {
-      "id": "b60a671b2f7434e7caa0",
-      "fingerprint": "62e7f9631d84a8e062df",
-      "source": "HTGF News",
-      "title": "Kontext raises $4M to stop AI agents from going rogue at work",
-      "url": "https://www.htgf.de/en/kontext-raises-4m-to-stop-ai-agents-from-going-rogue-at-work/",
-      "summary": "Kontext raises $4M to stop AI agents from going rogue at work Kontext, the runtime security platform for AI agents, today announced $4 million in funding. The company is backed by 42CAP, a16z CSX, and HTGF, with 42CAP leading the financing. The funding will support the expansion of Kontext’s engineering team, continued development of its […]",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "topics": [
-        "AI & Agents",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 12,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "baseline_article"
+      "change_type": "new_article"
     }
   ],
   "warnings": [],
