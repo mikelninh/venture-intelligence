@@ -1,61 +1,61 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-10-15T12:45:07+00:00",
+  "updated_at": "2026-10-16T12:35:37+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
       "source": "HTGF News",
       "title": "Air Force Innovation Day 2026",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "445de2cc1c20b00bfa6a": {
       "fingerprint": "ca9db4a4cdd8a1b628ca",
       "source": "HTGF News",
       "title": "Zymofix to build flagship microbial manufacturing plant",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "e52610f5a606a5543c89": {
       "fingerprint": "9037dcd71699c85406ab",
       "source": "HTGF News",
       "title": "Jeroen Hoet on eyeo B.V.’s Sensor Breakthrough",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "d3905a02a15dc1bf2935": {
       "fingerprint": "a03a5cc105d0728c0e37",
       "source": "HTGF News",
       "title": "TrustNXT: What Makes Data Trustworthy for Autonomous Systems?",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "b60a671b2f7434e7caa0": {
       "fingerprint": "62e7f9631d84a8e062df",
       "source": "HTGF News",
       "title": "Kontext raises $4M to stop AI agents from going rogue at work",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "2de249f4e422779e16f2": {
       "fingerprint": "becc347ba4dd1c29c33b",
       "source": "HTGF News",
       "title": "Protection against sabotage: Arcos closes €5.5 million seed round for integrated security infrastructure",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "87a2ea7b1a5556306c8a": {
       "fingerprint": "3e2595aac9a2fb023932",
@@ -127,19 +127,19 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
       "source": "EU-Startups",
       "title": "Is EU Inc in trouble? European innovators warn landmark startup reform is being stripped of its purpose",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "f545fe1f0bef9d58c5a6": {
       "fingerprint": "15b7a5936ed0ca9b8015",
       "source": "EU-Startups",
       "title": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech",
-      "observed_at": "2026-10-15T12:45:07+00:00"
+      "observed_at": "2026-10-16T12:35:37+00:00"
     },
     "6b803ec4a9f808a600fa": {
       "fingerprint": "23335c4c70792202532f",
@@ -188,17 +188,65 @@
       "source": "EU-Startups",
       "title": "New unicorn alert! Skeleton Technologies lands multi-million funding to expand AI infrastructure in the US",
       "observed_at": "2026-10-15T12:45:07+00:00"
+    },
+    "70806b4fa5cb2e53fdd4": {
+      "fingerprint": "4ae36766a0cd1cc00899",
+      "source": "EU-Startups",
+      "title": "New treatment for inflammatory bowel disease lands Microbiotica €42 million",
+      "observed_at": "2026-10-16T12:35:37+00:00"
+    },
+    "3f5fcdee1cb40cb0436a": {
+      "fingerprint": "31b7ee2bf135b3643486",
+      "source": "EU-Startups",
+      "title": "Norwegian open banking provider Neonomics secures €3.56 million after cutting operating costs by nearly half",
+      "observed_at": "2026-10-16T12:35:37+00:00"
+    },
+    "9d4f25b40ad7a4773bdd": {
+      "fingerprint": "f88d63bb96124af3f851",
+      "source": "EU-Startups",
+      "title": "AWS wants to prove its cloud can survive without the US, European startups are already there",
+      "observed_at": "2026-10-16T12:35:37+00:00"
+    },
+    "c96436b2ba6205d6085d": {
+      "fingerprint": "83cd064d3898a2bf7c6e",
+      "source": "EU-Startups",
+      "title": "London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab",
+      "observed_at": "2026-10-16T12:35:37+00:00"
+    },
+    "e82db784e0659c2fc174": {
+      "fingerprint": "9a4858d09d124e141a67",
+      "source": "EU-Startups",
+      "title": "Dublin-based LearnUpon secures €44.5 million to scale its agentic learning platform",
+      "observed_at": "2026-10-16T12:35:37+00:00"
+    },
+    "7c72ba0a0a31cafe7df2": {
+      "fingerprint": "bd4a63eacc8f6e46b912",
+      "source": "EU-Startups",
+      "title": "Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs",
+      "observed_at": "2026-10-16T12:35:37+00:00"
+    },
+    "ddfc63d9e50920397851": {
+      "fingerprint": "6c89b441322abb7df14d",
+      "source": "EU-Startups",
+      "title": "German AI startup Elevatry secures €3 million to automate procurement workflows",
+      "observed_at": "2026-10-16T12:35:37+00:00"
+    },
+    "d1dd08b826938a041bbd": {
+      "fingerprint": "ee81d4b6d772bb74334e",
+      "source": "EU-Startups",
+      "title": "OPINION: Are we attracting talent to live in Europe or to build here?",
+      "observed_at": "2026-10-16T12:35:37+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-10-15T12:45:07+00:00",
+      "fetched_at": "2026-10-16T12:35:37+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-10-15T12:45:07+00:00",
+      "fetched_at": "2026-10-16T12:35:37+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"

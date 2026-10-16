@@ -1,37 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T12:45:07+00:00",
+  "generated_at": "2026-10-16T12:35:37+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 10,
+  "change_count": 6,
   "items": [
     {
-      "id": "265ae646211d8d6a4ccd",
-      "fingerprint": "33dca6f662a1c13f15aa",
-      "source": "HTGF News",
-      "title": "Rabot Energy raises $50M in Series B",
-      "url": "https://www.htgf.de/en/rabot-energy-raises-50m-in-series-b/",
-      "summary": "Rabot Energy raises $50M: Turning millions of households into a virtual power plant Rabot Energy, the market leader in dynamic electricity tariffs, has closed a Series B funding round of 50 million. Endeit, a growth capital investor specialising in European tech scale-ups, is joining the round as lead investor alongside the DeepTech & Climate Fonds […]",
-      "published_at": "2026-10-15T07:00:00+00:00",
-      "topics": [
-        "Climate & Energy",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 12,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "f545fe1f0bef9d58c5a6",
-      "fingerprint": "15b7a5936ed0ca9b8015",
+      "id": "c96436b2ba6205d6085d",
+      "fingerprint": "83cd064d3898a2bf7c6e",
       "source": "EU-Startups",
-      "title": "Italy’s Panakès Partners launches €8.5 million investment vehicle targeting Lombardy’s MedTech and BioTech",
-      "url": "https://www.eu-startups.com/2026/10/italys-panakes-partners-launches-e8-5-million-investment-vehicle-targeting-lombardys-medtech-and-biotech-sectors/",
-      "summary": "Milan’s Panakès Partners has raised 8.5 million euros from Lombardia Venture STEP, the venture capital fund of funds promoted by the Lombardy Region in order to invest in companies that are active in life sciences, MedTech and BioTech sectors. Lombardia Venture STEP, financed by European funds from the PR FESR Lombardy 2021-2027 and managed by […] The post Italy’s Panakès Partners launches €8.5 mi",
-      "published_at": "2026-10-15T10:57:53+00:00",
+      "title": "London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab",
+      "url": "https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/",
+      "summary": "Unravel Health, a London-based startup developing technology to measure hormones at home daily, has raised €2.96 million (£2.5 million) to develop the Micro Lab, a palm-sized device that reads multiple hormones from a saliva sample in minutes. The round was led by Conduit EIS Impact Fund and Wrightwood, joined by Leo Capital, Embryo Ventures, Hermesa […] The post London’s Unravel Health raises €2.",
+      "published_at": "2026-10-16T08:52:14+00:00",
       "topics": [
         "Life Sciences",
         "Early-stage funding"
@@ -43,13 +25,31 @@
       "change_type": "new_article"
     },
     {
-      "id": "6b803ec4a9f808a600fa",
-      "fingerprint": "23335c4c70792202532f",
+      "id": "7c72ba0a0a31cafe7df2",
+      "fingerprint": "bd4a63eacc8f6e46b912",
       "source": "EU-Startups",
-      "title": "Nvidia is investing heavily into Europe – why now?",
-      "url": "https://www.eu-startups.com/2026/10/nvidia-is-investing-heavily-into-europe-why-now/",
-      "summary": "NVIDIA has had a busy week on this side of the pond. From announcing new investments in British and French startups to launching collaborations in Sweden, supporting AI research and bringing developers together in Barcelona, Paris and London, the US chipmaker appears determined to play a bigger role in the continent’s technological future. The activity […] The post Nvidia is investing heavily into",
-      "published_at": "2026-10-15T10:37:00+00:00",
+      "title": "Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs",
+      "url": "https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/",
+      "summary": "Goodweek, a Los Angeles-headquartered French startup positioning itself as a one-stop AI management platform for small and medium-sized businesses, has raised a €10.69 million ($12 million) Seed round. The funding round was led by Spanish venture capital firm Adara Ventures, which previously backed Goodweek co-founder Nicolas Stehle at his earlier venture, Scalefast, sold in 2022. […] The post Str",
+      "published_at": "2026-10-16T06:28:13+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "ddfc63d9e50920397851",
+      "fingerprint": "6c89b441322abb7df14d",
+      "source": "EU-Startups",
+      "title": "German AI startup Elevatry secures €3 million to automate procurement workflows",
+      "url": "https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/",
+      "summary": "Munich-based Elevatry, an AI ​​platform for strategic procurement, has closed a €3 million pre-Seed financing round in order to enhance its platform, expand its team, and support market entry in Europe before expanding to North America. Investors include Bayern Kapital, the management consultancy H&Z, and several business angels, among them Jan Henner-Theißen, Martin Berr-Sorokin, Mike […] The pos",
+      "published_at": "2026-10-15T15:18:50+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
