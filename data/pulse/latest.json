@@ -1,62 +1,42 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T12:35:37+00:00",
+  "generated_at": "2026-10-17T11:41:27+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 6,
+  "change_count": 2,
   "items": [
     {
-      "id": "c96436b2ba6205d6085d",
-      "fingerprint": "83cd064d3898a2bf7c6e",
+      "id": "0e21a97b4ff99fead72e",
+      "fingerprint": "556193703b9f1537a993",
       "source": "EU-Startups",
-      "title": "London’s Unravel Health raises €2.96 million to help women track hormones at home with a palm-sized lab",
-      "url": "https://www.eu-startups.com/2026/10/londons-unravel-health-raises-e2-96-million-to-help-women-track-hormones-at-home-with-a-palm-sized-lab/",
-      "summary": "Unravel Health, a London-based startup developing technology to measure hormones at home daily, has raised €2.96 million (£2.5 million) to develop the Micro Lab, a palm-sized device that reads multiple hormones from a saliva sample in minutes. The round was led by Conduit EIS Impact Fund and Wrightwood, joined by Leo Capital, Embryo Ventures, Hermesa […] The post London’s Unravel Health raises €2.",
-      "published_at": "2026-10-16T08:52:14+00:00",
+      "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)",
+      "url": "https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/",
+      "summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you […] The post Weekly funding round-up! All of the European startup funding rounds we tracke",
+      "published_at": "2026-10-16T15:10:45+00:00",
       "topics": [
-        "Life Sciences",
         "Early-stage funding"
       ],
       "event": "funding",
-      "priority": 6,
+      "priority": 4,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
     },
     {
-      "id": "7c72ba0a0a31cafe7df2",
-      "fingerprint": "bd4a63eacc8f6e46b912",
+      "id": "e84571528794dea829a8",
+      "fingerprint": "da4b9bc1ccbb4588a36f",
       "source": "EU-Startups",
-      "title": "Strasbourg-founded Goodweek raises €10.69 million to become the AI Manager for SMBs",
-      "url": "https://www.eu-startups.com/2026/10/strasbourg-founded-goodweek-raises-e10-69-million-to-become-the-ai-manager-for-smbs/",
-      "summary": "Goodweek, a Los Angeles-headquartered French startup positioning itself as a one-stop AI management platform for small and medium-sized businesses, has raised a €10.69 million ($12 million) Seed round. The funding round was led by Spanish venture capital firm Adara Ventures, which previously backed Goodweek co-founder Nicolas Stehle at his earlier venture, Scalefast, sold in 2022. […] The post Str",
-      "published_at": "2026-10-16T06:28:13+00:00",
+      "title": "Oxford spin-out OMass Therapeutics lands €275 million to bring novel small-molecule therapies closer to patients",
+      "url": "https://www.eu-startups.com/2026/10/oxford-spin-out-omass-therapeutics-lands-e275-million-to-bring-novel-small-molecule-therapies-closer-to-patients/",
+      "summary": "OMass Therapeutics, a UK BioTech company developing small molecule therapeutics against highly validated target ecosystems, announced an oversubscribed €275 million (£230 million) Series C round. The round was co-led by new investors Bain Capital Life Sciences, Forbion and Novo Holdings, with additional participation from Janus Henderson Investors, SV Health Investors and Jefferson Life Sciences. ",
+      "published_at": "2026-10-16T13:59:14+00:00",
       "topics": [
-        "AI & Agents",
-        "Early-stage funding"
+        "Life Sciences"
       ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "ddfc63d9e50920397851",
-      "fingerprint": "6c89b441322abb7df14d",
-      "source": "EU-Startups",
-      "title": "German AI startup Elevatry secures €3 million to automate procurement workflows",
-      "url": "https://www.eu-startups.com/2026/10/german-ai-startup-elevatry-secures-e3-million-to-automate-procurement-workflows/",
-      "summary": "Munich-based Elevatry, an AI ​​platform for strategic procurement, has closed a €3 million pre-Seed financing round in order to enhance its platform, expand its team, and support market entry in Europe before expanding to North America. Investors include Bayern Kapital, the management consultancy H&Z, and several business angels, among them Jan Henner-Theißen, Martin Berr-Sorokin, Mike […] The pos",
-      "published_at": "2026-10-15T15:18:50+00:00",
-      "topics": [
-        "AI & Agents",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "event": "other",
+      "priority": 2,
+      "next_action": "Open the original source and decide whether further investigation is useful.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
     }
