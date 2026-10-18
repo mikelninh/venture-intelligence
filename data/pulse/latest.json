@@ -1,48 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T11:41:27+00:00",
+  "generated_at": "2026-10-18T12:07:48+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 2,
-  "items": [
-    {
-      "id": "0e21a97b4ff99fead72e",
-      "fingerprint": "556193703b9f1537a993",
-      "source": "EU-Startups",
-      "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)",
-      "url": "https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-12-oct-16/",
-      "summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you […] The post Weekly funding round-up! All of the European startup funding rounds we tracke",
-      "published_at": "2026-10-16T15:10:45+00:00",
-      "topics": [
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 4,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "e84571528794dea829a8",
-      "fingerprint": "da4b9bc1ccbb4588a36f",
-      "source": "EU-Startups",
-      "title": "Oxford spin-out OMass Therapeutics lands €275 million to bring novel small-molecule therapies closer to patients",
-      "url": "https://www.eu-startups.com/2026/10/oxford-spin-out-omass-therapeutics-lands-e275-million-to-bring-novel-small-molecule-therapies-closer-to-patients/",
-      "summary": "OMass Therapeutics, a UK BioTech company developing small molecule therapeutics against highly validated target ecosystems, announced an oversubscribed €275 million (£230 million) Series C round. The round was co-led by new investors Bain Capital Life Sciences, Forbion and Novo Holdings, with additional participation from Janus Henderson Investors, SV Health Investors and Jefferson Life Sciences. ",
-      "published_at": "2026-10-16T13:59:14+00:00",
-      "topics": [
-        "Life Sciences"
-      ],
-      "event": "other",
-      "priority": 2,
-      "next_action": "Open the original source and decide whether further investigation is useful.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    }
-  ],
+  "change_count": 0,
+  "items": [],
   "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
+  "next_best_action": "No new relevant articles. Nothing urgent to do.",
   "autonomous_external_actions": false
 }
