@@ -1,61 +1,61 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-10-18T12:07:48+00:00",
+  "updated_at": "2026-10-19T14:48:53+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
       "source": "HTGF News",
       "title": "Air Force Innovation Day 2026",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "445de2cc1c20b00bfa6a": {
       "fingerprint": "ca9db4a4cdd8a1b628ca",
       "source": "HTGF News",
       "title": "Zymofix to build flagship microbial manufacturing plant",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "e52610f5a606a5543c89": {
       "fingerprint": "9037dcd71699c85406ab",
       "source": "HTGF News",
       "title": "Jeroen Hoet on eyeo B.V.’s Sensor Breakthrough",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "d3905a02a15dc1bf2935": {
       "fingerprint": "a03a5cc105d0728c0e37",
       "source": "HTGF News",
       "title": "TrustNXT: What Makes Data Trustworthy for Autonomous Systems?",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "b60a671b2f7434e7caa0": {
       "fingerprint": "62e7f9631d84a8e062df",
       "source": "HTGF News",
       "title": "Kontext raises $4M to stop AI agents from going rogue at work",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "2de249f4e422779e16f2": {
       "fingerprint": "becc347ba4dd1c29c33b",
       "source": "HTGF News",
       "title": "Protection against sabotage: Arcos closes €5.5 million seed round for integrated security infrastructure",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "87a2ea7b1a5556306c8a": {
       "fingerprint": "3e2595aac9a2fb023932",
@@ -127,7 +127,7 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
@@ -241,7 +241,7 @@
       "fingerprint": "556193703b9f1537a993",
       "source": "EU-Startups",
       "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 12 – Oct. 16)",
-      "observed_at": "2026-10-18T12:07:48+00:00"
+      "observed_at": "2026-10-19T14:48:53+00:00"
     },
     "e84571528794dea829a8": {
       "fingerprint": "da4b9bc1ccbb4588a36f",
@@ -254,17 +254,71 @@
       "source": "EU-Startups",
       "title": "OPINION: How founders can stop wasting time on fundraising",
       "observed_at": "2026-10-18T12:07:48+00:00"
+    },
+    "011292a377fe2b7259bf": {
+      "fingerprint": "d6e2741dde827ae23d0c",
+      "source": "EU-Startups",
+      "title": "15 startups helping AI discover your company and product",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "1d54838f43c82f1c001e": {
+      "fingerprint": "3976b22cac4fe5123f84",
+      "source": "EU-Startups",
+      "title": "Valencia-based Linkener raises €7.5 million to digitise and optimise energy management for businesses",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "aa9b8bc5d7c0755a0d6d": {
+      "fingerprint": "0e21ce91a0af34a8774f",
+      "source": "EU-Startups",
+      "title": "OPINION: Selling your startup does not mean success",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "6b128f9d826b0165813e": {
+      "fingerprint": "67e7a2c2cf3b8e9533d0",
+      "source": "EU-Startups",
+      "title": "British payments unicorn Zilch invests €91 million in larger London headquarters amid continued growth",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "e6c016cb2c4ad4ff00c5": {
+      "fingerprint": "3312835e5fba5abea0c6",
+      "source": "EU-Startups",
+      "title": "Spanish VC Enzo Ventures doubles down on early-stage startups with new €20 million fund",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "f56d6b4615039c7c0f54": {
+      "fingerprint": "ca1206c670e1f66bf27f",
+      "source": "EU-Startups",
+      "title": "Bristol’s Siloton wins €9.98 million Innovate UK contract to develop its handheld eye imaging system",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "03c2df86658d84f52c11": {
+      "fingerprint": "2a274cab8379257c7781",
+      "source": "EU-Startups",
+      "title": "Switzerland’s Nouscom bags €120 million to bring innovative cancer immunotherapy closer to clinical trials",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "03408b6d796d3c486958": {
+      "fingerprint": "e03302f1bed172760861",
+      "source": "EU-Startups",
+      "title": "Stockholm’s Vessla exits stealth with €2.94 million to bring AI agents to property management",
+      "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "82d7b9e4931b499fc6bd": {
+      "fingerprint": "398905c43e1ac6b836f5",
+      "source": "EU-Startups",
+      "title": "Amsterdam’s Huppa raises €1 million to build an operating system for class-based gyms and studios",
+      "observed_at": "2026-10-19T14:48:53+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-10-18T12:07:48+00:00",
+      "fetched_at": "2026-10-19T14:48:53+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-10-18T12:07:48+00:00",
+      "fetched_at": "2026-10-19T14:48:53+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"

@@ -1,13 +1,69 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T12:07:48+00:00",
+  "generated_at": "2026-10-19T14:48:53+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 0,
-  "items": [],
+  "change_count": 7,
+  "items": [
+    {
+      "id": "1d54838f43c82f1c001e",
+      "fingerprint": "3976b22cac4fe5123f84",
+      "source": "EU-Startups",
+      "title": "Valencia-based Linkener raises €7.5 million to digitise and optimise energy management for businesses",
+      "url": "https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/",
+      "summary": "Linkener, a Valencia-based EnergyTech startup that digitises and optimises energy management for businesses through a platform combining consumption metering, data analytics and AI, has closed a €7.5 million funding round. The round was led by Klima Energy Transition Fund, Alantra’s energy transition fund, with GoHub Ventures remaining a shareholder. José Ignacio Ruiz, CEO of Linkener, […] The pos",
+      "published_at": "2026-10-19T11:23:08+00:00",
+      "topics": [
+        "AI & Agents",
+        "Climate & Energy",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 8,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "e6c016cb2c4ad4ff00c5",
+      "fingerprint": "3312835e5fba5abea0c6",
+      "source": "EU-Startups",
+      "title": "Spanish VC Enzo Ventures doubles down on early-stage startups with new €20 million fund",
+      "url": "https://www.eu-startups.com/2026/10/spanish-vc-enzo-ventures-doubles-down-on-early-stage-startups-with-new-e20-million-fund/",
+      "summary": "Barcelona- and Madrid-based venture capital firm Enzo Ventures has announced the launch of Enzo Ventures II, a new €20 million fund aimed at backing technology startups founded by entrepreneurs from Southern Europe, regardless of where they choose to build their businesses. The fund will focus on pre-Seed investments, with initial cheques ranging from €250k to […] The post Spanish VC Enzo Ventures",
+      "published_at": "2026-10-19T09:37:36+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "03c2df86658d84f52c11",
+      "fingerprint": "2a274cab8379257c7781",
+      "source": "EU-Startups",
+      "title": "Switzerland’s Nouscom bags €120 million to bring innovative cancer immunotherapy closer to clinical trials",
+      "url": "https://www.eu-startups.com/2026/10/switzerlands-nouscom-bags-e120-million-to-bring-innovative-cancer-immunotherapy-closer-to-clinical-trials/",
+      "summary": "Basel-based Nouscom, a clinical-stage, cancer interception focused BioTech developing next-generation immunotherapies, today announced the closing of an oversubscribed €120 million ($135 million) Series D financing to fund the advancement of an investigational off-the-shelf neoantigen-based cancer immunotherapy. The round was co-led by M Ventures and Revelation Partners alongside new investors Ang",
+      "published_at": "2026-10-19T08:52:38+00:00",
+      "topics": [
+        "Life Sciences",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    }
+  ],
   "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "No new relevant articles. Nothing urgent to do.",
+  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
   "autonomous_external_actions": false
 }
