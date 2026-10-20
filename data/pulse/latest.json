@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T14:48:53+00:00",
+  "generated_at": "2026-10-20T12:49:27+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 7,
+  "change_count": 8,
   "items": [
     {
-      "id": "1d54838f43c82f1c001e",
-      "fingerprint": "3976b22cac4fe5123f84",
+      "id": "b842fa875ebb0c185d19",
+      "fingerprint": "7038cdbb5fbfe23713f5",
       "source": "EU-Startups",
-      "title": "Valencia-based Linkener raises €7.5 million to digitise and optimise energy management for businesses",
-      "url": "https://www.eu-startups.com/2026/10/valencia-based-linkener-raises-e7-5-million-to-digitise-and-optimise-energy-management-for-businesses/",
-      "summary": "Linkener, a Valencia-based EnergyTech startup that digitises and optimises energy management for businesses through a platform combining consumption metering, data analytics and AI, has closed a €7.5 million funding round. The round was led by Klima Energy Transition Fund, Alantra’s energy transition fund, with GoHub Ventures remaining a shareholder. José Ignacio Ruiz, CEO of Linkener, […] The pos",
-      "published_at": "2026-10-19T11:23:08+00:00",
+      "title": "London-based “Surgical Intelligence” company XRlabs raises €7.48 million to bring AI into the operating room",
+      "url": "https://www.eu-startups.com/2026/10/london-based-surgical-intelligence-company-xrlabs-raises-e7-48-million-to-bring-ai-into-the-operating-room/",
+      "summary": "XRlabs, the London-based Surgical Intelligence company built by surgeons for surgeons, has raised €7.48 million ($8.4 million) in Seed funding. The round was led by Playground Global, the DeepTech-focused venture firm based in Palo Alto, with participation from London-based HealthTech investor Eka Ventures. Alongside the fundraise, XRlabs also announced that Omar Ishrak, who led Medtronic […] The ",
+      "published_at": "2026-10-20T07:01:33+00:00",
       "topics": [
         "AI & Agents",
-        "Climate & Energy",
+        "Life Sciences",
         "Early-stage funding"
       ],
       "event": "funding",
@@ -26,15 +26,15 @@
       "change_type": "new_article"
     },
     {
-      "id": "e6c016cb2c4ad4ff00c5",
-      "fingerprint": "3312835e5fba5abea0c6",
+      "id": "b7858a0e4798ff379695",
+      "fingerprint": "e0cd244609b4a1358d7e",
       "source": "EU-Startups",
-      "title": "Spanish VC Enzo Ventures doubles down on early-stage startups with new €20 million fund",
-      "url": "https://www.eu-startups.com/2026/10/spanish-vc-enzo-ventures-doubles-down-on-early-stage-startups-with-new-e20-million-fund/",
-      "summary": "Barcelona- and Madrid-based venture capital firm Enzo Ventures has announced the launch of Enzo Ventures II, a new €20 million fund aimed at backing technology startups founded by entrepreneurs from Southern Europe, regardless of where they choose to build their businesses. The fund will focus on pre-Seed investments, with initial cheques ranging from €250k to […] The post Spanish VC Enzo Ventures",
-      "published_at": "2026-10-19T09:37:36+00:00",
+      "title": "London’s Emerald secures €1.66 million to scale its preventive healthcare platform",
+      "url": "https://www.eu-startups.com/2026/10/londons-emerald-secures-e1-66-million-to-scale-its-preventive-healthcare-platform/",
+      "summary": "Emerald, a London-based preventive healthcare platform, has secured an additional €1.66 million (£1.4 million/$1.85 million) in funding. This brings the company’s total funding to date to €3.44 million (£2.9 million). The latest funding includes an €832.2k (£700k) grant from Innovate UK, Emerald’s second award from the organisation, together with a further €832.2k (£700k) in venture […] The post L",
+      "published_at": "2026-10-20T08:03:45+00:00",
       "topics": [
-        "AI & Agents",
+        "Life Sciences",
         "Early-stage funding"
       ],
       "event": "funding",
@@ -44,15 +44,15 @@
       "change_type": "new_article"
     },
     {
-      "id": "03c2df86658d84f52c11",
-      "fingerprint": "2a274cab8379257c7781",
+      "id": "fba2b526c8bbdb196778",
+      "fingerprint": "6904b870075c415eec1d",
       "source": "EU-Startups",
-      "title": "Switzerland’s Nouscom bags €120 million to bring innovative cancer immunotherapy closer to clinical trials",
-      "url": "https://www.eu-startups.com/2026/10/switzerlands-nouscom-bags-e120-million-to-bring-innovative-cancer-immunotherapy-closer-to-clinical-trials/",
-      "summary": "Basel-based Nouscom, a clinical-stage, cancer interception focused BioTech developing next-generation immunotherapies, today announced the closing of an oversubscribed €120 million ($135 million) Series D financing to fund the advancement of an investigational off-the-shelf neoantigen-based cancer immunotherapy. The round was co-led by M Ventures and Revelation Partners alongside new investors Ang",
-      "published_at": "2026-10-19T08:52:38+00:00",
+      "title": "Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix errors with AI agents",
+      "url": "https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/",
+      "summary": "Plinto, a Copenhagen-based startup building AI for real-time controlling, has secured €2.9 million in pre-Seed funding. The round was led by People Ventures and Emblem, with participation from a group of business angels. “Companies have systems that record every single transaction, but checking whether those transactions actually match agreements and rules is still largely manual. […] The post Cop",
+      "published_at": "2026-10-20T06:01:36+00:00",
       "topics": [
-        "Life Sciences",
+        "AI & Agents",
         "Early-stage funding"
       ],
       "event": "funding",

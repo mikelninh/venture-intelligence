@@ -1,61 +1,61 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-10-19T14:48:53+00:00",
+  "updated_at": "2026-10-20T12:49:27+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
       "source": "HTGF News",
       "title": "Air Force Innovation Day 2026",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "445de2cc1c20b00bfa6a": {
       "fingerprint": "ca9db4a4cdd8a1b628ca",
       "source": "HTGF News",
       "title": "Zymofix to build flagship microbial manufacturing plant",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "e52610f5a606a5543c89": {
       "fingerprint": "9037dcd71699c85406ab",
       "source": "HTGF News",
       "title": "Jeroen Hoet on eyeo B.V.’s Sensor Breakthrough",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "d3905a02a15dc1bf2935": {
       "fingerprint": "a03a5cc105d0728c0e37",
       "source": "HTGF News",
       "title": "TrustNXT: What Makes Data Trustworthy for Autonomous Systems?",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "b60a671b2f7434e7caa0": {
       "fingerprint": "62e7f9631d84a8e062df",
       "source": "HTGF News",
       "title": "Kontext raises $4M to stop AI agents from going rogue at work",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "2de249f4e422779e16f2": {
       "fingerprint": "becc347ba4dd1c29c33b",
       "source": "HTGF News",
       "title": "Protection against sabotage: Arcos closes €5.5 million seed round for integrated security infrastructure",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "87a2ea7b1a5556306c8a": {
       "fingerprint": "3e2595aac9a2fb023932",
@@ -127,7 +127,7 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
@@ -259,7 +259,7 @@
       "fingerprint": "d6e2741dde827ae23d0c",
       "source": "EU-Startups",
       "title": "15 startups helping AI discover your company and product",
-      "observed_at": "2026-10-19T14:48:53+00:00"
+      "observed_at": "2026-10-20T12:49:27+00:00"
     },
     "1d54838f43c82f1c001e": {
       "fingerprint": "3976b22cac4fe5123f84",
@@ -308,17 +308,71 @@
       "source": "EU-Startups",
       "title": "Amsterdam’s Huppa raises €1 million to build an operating system for class-based gyms and studios",
       "observed_at": "2026-10-19T14:48:53+00:00"
+    },
+    "9db0f536210098d19770": {
+      "fingerprint": "b524f38a8b6a7784c80b",
+      "source": "EU-Startups",
+      "title": "EIF commits €20 million to Swedish VC BackingMinds to support underrepresented entrepreneurs",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "f5e501ad1567f601c7e1": {
+      "fingerprint": "ddd1c5ba41f20c6a8d23",
+      "source": "EU-Startups",
+      "title": "OPINION: Europe needs more than just successful exits",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "1b4f3aaf3b80ad65d258": {
+      "fingerprint": "d4318d4392404bfb961a",
+      "source": "EU-Startups",
+      "title": "Germany’s NEURA Robotics shows no signs of slowing down as it teams up with Austria’s NXAI for physical AI",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "f868a72d07b7cba6b35b": {
+      "fingerprint": "17b63245c41246f412bd",
+      "source": "EU-Startups",
+      "title": "Espoo’s Coherence Quantum raises €2.78 million to build infrastructure for larger quantum computers",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "262a0e42efd995d9b68f": {
+      "fingerprint": "11ab4e718c8c91c12e79",
+      "source": "EU-Startups",
+      "title": "EU-Startups identifies 20 startups among 77 projects selected for €3.4 billion net-zero funding",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "b7858a0e4798ff379695": {
+      "fingerprint": "e0cd244609b4a1358d7e",
+      "source": "EU-Startups",
+      "title": "London’s Emerald secures €1.66 million to scale its preventive healthcare platform",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "b842fa875ebb0c185d19": {
+      "fingerprint": "7038cdbb5fbfe23713f5",
+      "source": "EU-Startups",
+      "title": "London-based “Surgical Intelligence” company XRlabs raises €7.48 million to bring AI into the operating room",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "fba2b526c8bbdb196778": {
+      "fingerprint": "6904b870075c415eec1d",
+      "source": "EU-Startups",
+      "title": "Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix errors with AI agents",
+      "observed_at": "2026-10-20T12:49:27+00:00"
+    },
+    "433cdeed04fb63d42d8d": {
+      "fingerprint": "e0b0d8ffca8f517955f3",
+      "source": "EU-Startups",
+      "title": "Turbine Capital closes €54 million DeepTech fund to connect Nordic startups with industrial leaders",
+      "observed_at": "2026-10-20T12:49:27+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-10-19T14:48:53+00:00",
+      "fetched_at": "2026-10-20T12:49:27+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-10-19T14:48:53+00:00",
+      "fetched_at": "2026-10-20T12:49:27+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"
