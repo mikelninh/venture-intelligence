@@ -1,40 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T12:49:27+00:00",
+  "generated_at": "2026-10-21T13:02:17+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
   "change_count": 8,
   "items": [
     {
-      "id": "b842fa875ebb0c185d19",
-      "fingerprint": "7038cdbb5fbfe23713f5",
+      "id": "ebc2c958d4225de518ab",
+      "fingerprint": "43fd226d96f92a5c7cc5",
       "source": "EU-Startups",
-      "title": "London-based “Surgical Intelligence” company XRlabs raises €7.48 million to bring AI into the operating room",
-      "url": "https://www.eu-startups.com/2026/10/london-based-surgical-intelligence-company-xrlabs-raises-e7-48-million-to-bring-ai-into-the-operating-room/",
-      "summary": "XRlabs, the London-based Surgical Intelligence company built by surgeons for surgeons, has raised €7.48 million ($8.4 million) in Seed funding. The round was led by Playground Global, the DeepTech-focused venture firm based in Palo Alto, with participation from London-based HealthTech investor Eka Ventures. Alongside the fundraise, XRlabs also announced that Omar Ishrak, who led Medtronic […] The ",
-      "published_at": "2026-10-20T07:01:33+00:00",
+      "title": "Eindhoven-based Photon Bridge raises €10 million to build optical engines for AI and telecom",
+      "url": "https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/",
+      "summary": "Photon Bridge (formerly Photon IP), an Eindhoven-based startup building optical engines for AI and telecom, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers needed to connect increasingly large clusters of AI processors. New investors, the Amadeus APEX Technology Fund and 360 Capital, co-led the round, while […] The post Eindhoven-based",
+      "published_at": "2026-10-21T10:56:50+00:00",
       "topics": [
         "AI & Agents",
-        "Life Sciences",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 8,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "b7858a0e4798ff379695",
-      "fingerprint": "e0cd244609b4a1358d7e",
-      "source": "EU-Startups",
-      "title": "London’s Emerald secures €1.66 million to scale its preventive healthcare platform",
-      "url": "https://www.eu-startups.com/2026/10/londons-emerald-secures-e1-66-million-to-scale-its-preventive-healthcare-platform/",
-      "summary": "Emerald, a London-based preventive healthcare platform, has secured an additional €1.66 million (£1.4 million/$1.85 million) in funding. This brings the company’s total funding to date to €3.44 million (£2.9 million). The latest funding includes an €832.2k (£700k) grant from Innovate UK, Emerald’s second award from the organisation, together with a further €832.2k (£700k) in venture […] The post L",
-      "published_at": "2026-10-20T08:03:45+00:00",
-      "topics": [
-        "Life Sciences",
         "Early-stage funding"
       ],
       "event": "funding",
@@ -44,13 +25,31 @@
       "change_type": "new_article"
     },
     {
-      "id": "fba2b526c8bbdb196778",
-      "fingerprint": "6904b870075c415eec1d",
+      "id": "ada13f9045c4eeb41194",
+      "fingerprint": "d3e444a48fd077388138",
       "source": "EU-Startups",
-      "title": "Copenhagen’s Plinto raises €2.9 million to help finance teams catch and fix errors with AI agents",
-      "url": "https://www.eu-startups.com/2026/10/copenhagens-plinto-raises-e2-9-million-to-help-finance-teams-catch-and-fix-errors-with-ai-agents/",
-      "summary": "Plinto, a Copenhagen-based startup building AI for real-time controlling, has secured €2.9 million in pre-Seed funding. The round was led by People Ventures and Emblem, with participation from a group of business angels. “Companies have systems that record every single transaction, but checking whether those transactions actually match agreements and rules is still largely manual. […] The post Cop",
-      "published_at": "2026-10-20T06:01:36+00:00",
+      "title": "Britain’s Skyfly raises €8.91 million to bring its two-seat Axe eVTOL to market and develop Longbow for defence",
+      "url": "https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/",
+      "summary": "Skyfly Technologies, a British developer of electric and hybrid-electric vertical take-off aircraft, has closed an €8.91 million ($10 million) Seed round. The round was led by HICO Investment Group, a specialist growth equity investor, with participation from Archangel, a €50 million early-stage fund and Europe’s only dedicated next-generation defence technology venture fund. “What Skyfly’s team [",
+      "published_at": "2026-10-21T09:48:47+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "d1cf456ee79300177774",
+      "fingerprint": "1f1c478854c792f13bd8",
+      "source": "EU-Startups",
+      "title": "Berlin-based YGO raises €8 million to make travel inventory bookable through AI agents",
+      "url": "https://www.eu-startups.com/2026/10/berlin-based-ygo-raises-e8-million-to-make-travel-inventory-bookable-through-ai-agents/",
+      "summary": "YGO, a Berlin-based startup building an AI infrastructure layer for the travel industry, raised €8 million in a Series A round. The round was led by Ventech, with participation from Sake Bosch, Caesar and Business Angels. In August 2024, the company announced it had secured €2.5 million in funding led by GetAway Group. “Online travel […] The post Berlin-based YGO raises €8 million to make travel i",
+      "published_at": "2026-10-21T07:31:51+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
