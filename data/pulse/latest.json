@@ -1,19 +1,38 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T13:02:17+00:00",
+  "generated_at": "2026-10-22T13:04:09+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 8,
+  "change_count": 9,
   "items": [
     {
-      "id": "ebc2c958d4225de518ab",
-      "fingerprint": "43fd226d96f92a5c7cc5",
+      "id": "00f4d890acbf74743263",
+      "fingerprint": "bd712e9ce67346218928",
       "source": "EU-Startups",
-      "title": "Eindhoven-based Photon Bridge raises €10 million to build optical engines for AI and telecom",
-      "url": "https://www.eu-startups.com/2026/10/eindhoven-based-photon-bridge-raises-e10-million-to-build-optical-engines-for-ai-and-telecom/",
-      "summary": "Photon Bridge (formerly Photon IP), an Eindhoven-based startup building optical engines for AI and telecom, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers needed to connect increasingly large clusters of AI processors. New investors, the Amadeus APEX Technology Fund and 360 Capital, co-led the round, while […] The post Eindhoven-based",
-      "published_at": "2026-10-21T10:56:50+00:00",
+      "title": "Amsterdam’s Indurex raises €7 million to strengthen cybersecurity and safety across cyber-physical systems",
+      "url": "https://www.eu-startups.com/2026/10/amsterdams-indurex-raises-e7-million-to-strengthen-cybersecurity-and-safety-across-cyber-physical-systems/",
+      "summary": "Indurex, an Amsterdam-based startup building an AI-native platform for Cyber-Physical Systems (CPS) security, has raised €7 million in funding, less than nine months after coming out of stealth. The round was led by Contrarian Ventures, the European early-stage firm that backs energy and industrial technology companies, with participation from Axeleo Capital and Dutch venture capital […] The post ",
+      "published_at": "2026-10-22T13:00:47+00:00",
+      "topics": [
+        "AI & Agents",
+        "Climate & Energy",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 8,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "12ca7c3997b464a65bd4",
+      "fingerprint": "5656fdd7bd6761143f6d",
+      "source": "EU-Startups",
+      "title": "Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian and defence markets",
+      "url": "https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/",
+      "summary": "Beyond Vision, a Lisbon-based manufacturer of unmanned aerial systems and vehicles (drones), announced today the completion of an investment round of over €28 million. The round was co-led by Índico Capital Partners and Lince Capital, with a follow-on investment from ActiveCap, a shareholder since 2024. The company plans to use this fresh capital to scale […] The post Lisbon’s Beyond Vision raises",
+      "published_at": "2026-10-22T09:02:43+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
@@ -25,38 +44,20 @@
       "change_type": "new_article"
     },
     {
-      "id": "ada13f9045c4eeb41194",
-      "fingerprint": "d3e444a48fd077388138",
+      "id": "be9b5ed378c259bedd74",
+      "fingerprint": "abb2ed1287fd93c291a1",
       "source": "EU-Startups",
-      "title": "Britain’s Skyfly raises €8.91 million to bring its two-seat Axe eVTOL to market and develop Longbow for defence",
-      "url": "https://www.eu-startups.com/2026/10/britains-skyfly-raises-e8-91-million-to-bring-its-two-seat-axe-evtol-to-market-and-develop-longbow-for-defence/",
-      "summary": "Skyfly Technologies, a British developer of electric and hybrid-electric vertical take-off aircraft, has closed an €8.91 million ($10 million) Seed round. The round was led by HICO Investment Group, a specialist growth equity investor, with participation from Archangel, a €50 million early-stage fund and Europe’s only dedicated next-generation defence technology venture fund. “What Skyfly’s team [",
-      "published_at": "2026-10-21T09:48:47+00:00",
+      "title": "Barcelona’s Masia closes €18 million debut fund and opens a physical hub for frontier tech founders and investors",
+      "url": "https://www.eu-startups.com/2026/10/barcelonas-masia-closes-e18-million-debut-fund-and-opens-a-physical-hub-for-frontier-tech-founders-and-investors/",
+      "summary": "Masia, a Barcelona-based venture capital platform, today announced it has closed its €18 million debut fund to invest in early-stage AI and frontier tech companies with a Barcelona connection. The fund attracted backing from more than 70 limited partners, including successful technology founders, executives and experienced investors, alongside two institutional investors. “We launched Masia’s firs",
+      "published_at": "2026-10-22T06:47:52+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
       ],
-      "event": "funding",
+      "event": "product",
       "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "d1cf456ee79300177774",
-      "fingerprint": "1f1c478854c792f13bd8",
-      "source": "EU-Startups",
-      "title": "Berlin-based YGO raises €8 million to make travel inventory bookable through AI agents",
-      "url": "https://www.eu-startups.com/2026/10/berlin-based-ygo-raises-e8-million-to-make-travel-inventory-bookable-through-ai-agents/",
-      "summary": "YGO, a Berlin-based startup building an AI infrastructure layer for the travel industry, raised €8 million in a Series A round. The round was led by Ventech, with participation from Sake Bosch, Caesar and Business Angels. In August 2024, the company announced it had secured €2.5 million in funding led by GetAway Group. “Online travel […] The post Berlin-based YGO raises €8 million to make travel i",
-      "published_at": "2026-10-21T07:31:51+00:00",
-      "topics": [
-        "AI & Agents",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "next_action": "Check what materially changed for users in the company's own announcement.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
     }
