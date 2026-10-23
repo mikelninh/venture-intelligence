@@ -1,38 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T13:04:09+00:00",
+  "generated_at": "2026-10-23T12:43:16+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 9,
+  "change_count": 7,
   "items": [
     {
-      "id": "00f4d890acbf74743263",
-      "fingerprint": "bd712e9ce67346218928",
+      "id": "71f8355a6d748419f78b",
+      "fingerprint": "c6cb1f7d8d19d953ff5c",
       "source": "EU-Startups",
-      "title": "Amsterdam’s Indurex raises €7 million to strengthen cybersecurity and safety across cyber-physical systems",
-      "url": "https://www.eu-startups.com/2026/10/amsterdams-indurex-raises-e7-million-to-strengthen-cybersecurity-and-safety-across-cyber-physical-systems/",
-      "summary": "Indurex, an Amsterdam-based startup building an AI-native platform for Cyber-Physical Systems (CPS) security, has raised €7 million in funding, less than nine months after coming out of stealth. The round was led by Contrarian Ventures, the European early-stage firm that backs energy and industrial technology companies, with participation from Axeleo Capital and Dutch venture capital […] The post ",
-      "published_at": "2026-10-22T13:00:47+00:00",
-      "topics": [
-        "AI & Agents",
-        "Climate & Energy",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 8,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "12ca7c3997b464a65bd4",
-      "fingerprint": "5656fdd7bd6761143f6d",
-      "source": "EU-Startups",
-      "title": "Lisbon’s Beyond Vision raises over €28 million to scale AI drones for civilian and defence markets",
-      "url": "https://www.eu-startups.com/2026/10/lisbons-beyond-vision-raises-over-e28-million-to-scale-ai-drones-for-civilian-and-defence-markets/",
-      "summary": "Beyond Vision, a Lisbon-based manufacturer of unmanned aerial systems and vehicles (drones), announced today the completion of an investment round of over €28 million. The round was co-led by Índico Capital Partners and Lince Capital, with a follow-on investment from ActiveCap, a shareholder since 2024. The company plans to use this fresh capital to scale […] The post Lisbon’s Beyond Vision raises",
-      "published_at": "2026-10-22T09:02:43+00:00",
+      "title": "The European startups defending Ukraine in 2026, and the VCs funding them",
+      "url": "https://www.eu-startups.com/2026/10/the-european-startups-defending-ukraine-in-2026-and-the-vcs-funding-them/",
+      "summary": "As Ukraine continues to defend itself against Russia’s invasion, European startups are developing technologies ranging from autonomous drones and air-defence systems to satellite intelligence, with venture capital playing an increasingly important role in supporting defence innovation. EU-Startups’ reporting on European DefenceTech and adjacent dual-use technologies has identified more than €1.8 b",
+      "published_at": "2026-10-23T10:10:25+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
@@ -44,20 +25,38 @@
       "change_type": "new_article"
     },
     {
-      "id": "be9b5ed378c259bedd74",
-      "fingerprint": "abb2ed1287fd93c291a1",
+      "id": "1a4cc9099dde3ced58cb",
+      "fingerprint": "cce9e5eed04d8a5902b1",
       "source": "EU-Startups",
-      "title": "Barcelona’s Masia closes €18 million debut fund and opens a physical hub for frontier tech founders and investors",
-      "url": "https://www.eu-startups.com/2026/10/barcelonas-masia-closes-e18-million-debut-fund-and-opens-a-physical-hub-for-frontier-tech-founders-and-investors/",
-      "summary": "Masia, a Barcelona-based venture capital platform, today announced it has closed its €18 million debut fund to invest in early-stage AI and frontier tech companies with a Barcelona connection. The fund attracted backing from more than 70 limited partners, including successful technology founders, executives and experienced investors, alongside two institutional investors. “We launched Masia’s firs",
-      "published_at": "2026-10-22T06:47:52+00:00",
+      "title": "London’s Cognitive Credit lands €35.73 million to scale its AI and data platform for credit markets",
+      "url": "https://www.eu-startups.com/2026/10/londons-cognitive-credit-lands-e35-73-million-to-scale-its-ai-and-data-platform-for-credit-markets/",
+      "summary": "Cognitive Credit, the London-based provider of corporate credit data, analytics and AI technology, has secured a €35.73 million ($40 million) strategic growth investment. The investment round was led by global growth equity firm Summit Partners, with continued participation from existing investor ETFS Capital. The investment follows an €8.93 million ($10 million) Series B led by […] The post Londo",
+      "published_at": "2026-10-23T09:45:13+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
       ],
-      "event": "product",
+      "event": "funding",
       "priority": 6,
-      "next_action": "Check what materially changed for users in the company's own announcement.",
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "1a77cce7119b4dc3d82c",
+      "fingerprint": "b78ee03824d49f89afe8",
+      "source": "EU-Startups",
+      "title": "OPINION: Robotics are essential for Europe’s energy transition",
+      "url": "https://www.eu-startups.com/2026/10/opinion-robotics-are-essential-for-europes-energy-transition/",
+      "summary": "Europe’s energy transition story is usually told through assets: more renewable generation, smarter grids, electric vehicles and battery storage. Yet while much of the debate focuses on financing and building infrastructure, a different challenge is emerging beneath the surface: operating and maintaining a rapidly expanding asset base over the next several decades. But the high-margin […] The post",
+      "published_at": "2026-10-23T08:44:13+00:00",
+      "topics": [
+        "AI & Agents",
+        "Climate & Energy"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
     }
