@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T12:43:16+00:00",
+  "generated_at": "2026-10-24T12:07:04+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 7,
+  "change_count": 3,
   "items": [
     {
-      "id": "71f8355a6d748419f78b",
-      "fingerprint": "c6cb1f7d8d19d953ff5c",
+      "id": "880e4507b090ae938c30",
+      "fingerprint": "008a45968f3447f505e1",
       "source": "EU-Startups",
-      "title": "The European startups defending Ukraine in 2026, and the VCs funding them",
-      "url": "https://www.eu-startups.com/2026/10/the-european-startups-defending-ukraine-in-2026-and-the-vcs-funding-them/",
-      "summary": "As Ukraine continues to defend itself against Russia’s invasion, European startups are developing technologies ranging from autonomous drones and air-defence systems to satellite intelligence, with venture capital playing an increasingly important role in supporting defence innovation. EU-Startups’ reporting on European DefenceTech and adjacent dual-use technologies has identified more than €1.8 b",
-      "published_at": "2026-10-23T10:10:25+00:00",
+      "title": "Berlin’s Cygrid exits stealth with €2.66 million to stop AI agents from accessing confidential company data",
+      "url": "https://www.eu-startups.com/2026/10/berlins-cygrid-exits-stealth-with-e2-66-million-to-stop-ai-agents-from-accessing-confidential-company-data/",
+      "summary": "Cygrid, a Berlin-based cybersecurity startup, has exited stealth with a €2.66 million pre-Seed funding round for its identity-enforcement platform that controls access to confidential information. The funding round was led by Atlantic, the pan-European pre-Seed fund, with participation from D11Z. Ventures, alongside angel investors including Boris Gorin, VP Product at Zscaler and founder of Canoni",
+      "published_at": "2026-10-23T07:32:51+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
@@ -22,41 +22,39 @@
       "priority": 6,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
-      "change_type": "new_article"
+      "change_type": "updated_article"
     },
     {
-      "id": "1a4cc9099dde3ced58cb",
-      "fingerprint": "cce9e5eed04d8a5902b1",
+      "id": "c6c4f78f8c3e75280551",
+      "fingerprint": "2bdf81ffaf187cd97e39",
       "source": "EU-Startups",
-      "title": "London’s Cognitive Credit lands €35.73 million to scale its AI and data platform for credit markets",
-      "url": "https://www.eu-startups.com/2026/10/londons-cognitive-credit-lands-e35-73-million-to-scale-its-ai-and-data-platform-for-credit-markets/",
-      "summary": "Cognitive Credit, the London-based provider of corporate credit data, analytics and AI technology, has secured a €35.73 million ($40 million) strategic growth investment. The investment round was led by global growth equity firm Summit Partners, with continued participation from existing investor ETFS Capital. The investment follows an €8.93 million ($10 million) Series B led by […] The post Londo",
-      "published_at": "2026-10-23T09:45:13+00:00",
+      "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 19 – Oct. 23)",
+      "url": "https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-19-oct-23/",
+      "summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you […] The post Weekly funding round-up! All of the European startup funding rounds we tracke",
+      "published_at": "2026-10-23T15:35:28+00:00",
       "topics": [
-        "AI & Agents",
         "Early-stage funding"
       ],
       "event": "funding",
-      "priority": 6,
+      "priority": 4,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
     },
     {
-      "id": "1a77cce7119b4dc3d82c",
-      "fingerprint": "b78ee03824d49f89afe8",
+      "id": "2e4d4ec467325dcb16d3",
+      "fingerprint": "2d1dec4168fd25eac00b",
       "source": "EU-Startups",
-      "title": "OPINION: Robotics are essential for Europe’s energy transition",
-      "url": "https://www.eu-startups.com/2026/10/opinion-robotics-are-essential-for-europes-energy-transition/",
-      "summary": "Europe’s energy transition story is usually told through assets: more renewable generation, smarter grids, electric vehicles and battery storage. Yet while much of the debate focuses on financing and building infrastructure, a different challenge is emerging beneath the surface: operating and maintaining a rapidly expanding asset base over the next several decades. But the high-margin […] The post",
-      "published_at": "2026-10-23T08:44:13+00:00",
+      "title": "ICEYE strengthens Ukraine’s satellite communications ambitions while expanding wildfire monitoring capabilities",
+      "url": "https://www.eu-startups.com/2026/10/iceye-strengthens-ukraines-satellite-communications-ambitions-while-expanding-wildfire-monitoring-capabilities/",
+      "summary": "Finnish SpaceTech unicorn ICEYE has announced two new partnerships aimed at expanding its satellite intelligence capabilities across defence and environmental monitoring. The company signed a Letter of Intent alongside Nokia and Ukraine’s Ministry of Defence to explore sovereign satellite communications, while also announcing a collaboration with German startup OroraTech to develop an integrated w",
+      "published_at": "2026-10-23T15:05:53+00:00",
       "topics": [
-        "AI & Agents",
-        "Climate & Energy"
+        "AI & Agents"
       ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "event": "partnership",
+      "priority": 4,
+      "next_action": "Confirm the announcement with both parties and examine its scope.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
     }
