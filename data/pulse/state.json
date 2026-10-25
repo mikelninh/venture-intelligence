@@ -1,61 +1,61 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-10-24T12:07:04+00:00",
+  "updated_at": "2026-10-25T12:40:00+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
       "source": "HTGF News",
       "title": "Air Force Innovation Day 2026",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "445de2cc1c20b00bfa6a": {
       "fingerprint": "ca9db4a4cdd8a1b628ca",
       "source": "HTGF News",
       "title": "Zymofix to build flagship microbial manufacturing plant",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "e52610f5a606a5543c89": {
       "fingerprint": "9037dcd71699c85406ab",
       "source": "HTGF News",
       "title": "Jeroen Hoet on eyeo B.V.’s Sensor Breakthrough",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "d3905a02a15dc1bf2935": {
       "fingerprint": "a03a5cc105d0728c0e37",
       "source": "HTGF News",
       "title": "TrustNXT: What Makes Data Trustworthy for Autonomous Systems?",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "b60a671b2f7434e7caa0": {
       "fingerprint": "62e7f9631d84a8e062df",
       "source": "HTGF News",
       "title": "Kontext raises $4M to stop AI agents from going rogue at work",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "2de249f4e422779e16f2": {
       "fingerprint": "becc347ba4dd1c29c33b",
       "source": "HTGF News",
       "title": "Protection against sabotage: Arcos closes €5.5 million seed round for integrated security infrastructure",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "87a2ea7b1a5556306c8a": {
       "fingerprint": "3e2595aac9a2fb023932",
@@ -127,7 +127,7 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
@@ -421,7 +421,7 @@
       "fingerprint": "491c4364799088fafb2c",
       "source": "EU-Startups",
       "title": "Top 50: Journalists and PR pros in European Tech",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "49998d98fbd19270b789": {
       "fingerprint": "4104aa6a2a1dba50411d",
@@ -469,43 +469,43 @@
       "fingerprint": "98bd283846df88c51e04",
       "source": "EU-Startups",
       "title": "Milan’s Phononic Vibes secures €25 million to expand noise control tech used by Deutsche Bahn and Mercedes-Benz",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "71f8355a6d748419f78b": {
       "fingerprint": "c6cb1f7d8d19d953ff5c",
       "source": "EU-Startups",
       "title": "The European startups defending Ukraine in 2026, and the VCs funding them",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "1a4cc9099dde3ced58cb": {
       "fingerprint": "cce9e5eed04d8a5902b1",
       "source": "EU-Startups",
       "title": "London’s Cognitive Credit lands €35.73 million to scale its AI and data platform for credit markets",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "1a77cce7119b4dc3d82c": {
       "fingerprint": "b78ee03824d49f89afe8",
       "source": "EU-Startups",
       "title": "OPINION: Robotics are essential for Europe’s energy transition",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "880e4507b090ae938c30": {
       "fingerprint": "008a45968f3447f505e1",
       "source": "EU-Startups",
       "title": "Berlin’s Cygrid exits stealth with €2.66 million to stop AI agents from accessing confidential company data",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "81b18247b7e7cf3df1d4": {
       "fingerprint": "6afe0e6914513a4fafff",
       "source": "EU-Startups",
       "title": "Portuguese EdTech Intuitivo raises €1.35 million to ease teachers’ workload and expand into Brazil",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "58e2154f6c46fb7b9121": {
       "fingerprint": "336eec0590e87c0dcbc0",
       "source": "EU-Startups",
       "title": "What does the failure of the Clarity Act mean for cryptocurrencies? (Sponsored)",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "261b1d3a81a6a647657e": {
       "fingerprint": "b818592a1c1700fb80c5",
@@ -517,24 +517,24 @@
       "fingerprint": "2bdf81ffaf187cd97e39",
       "source": "EU-Startups",
       "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 19 – Oct. 23)",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     },
     "2e4d4ec467325dcb16d3": {
       "fingerprint": "2d1dec4168fd25eac00b",
       "source": "EU-Startups",
       "title": "ICEYE strengthens Ukraine’s satellite communications ambitions while expanding wildfire monitoring capabilities",
-      "observed_at": "2026-10-24T12:07:04+00:00"
+      "observed_at": "2026-10-25T12:40:00+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-10-24T12:07:04+00:00",
+      "fetched_at": "2026-10-25T12:40:00+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-10-24T12:07:04+00:00",
+      "fetched_at": "2026-10-25T12:40:00+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"
