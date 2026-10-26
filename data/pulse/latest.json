@@ -1,13 +1,66 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-25T12:40:00+00:00",
+  "generated_at": "2026-10-26T14:26:20+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 0,
-  "items": [],
+  "change_count": 5,
+  "items": [
+    {
+      "id": "fc4ec499456d762eaa6e",
+      "fingerprint": "9c15d2b0cf136263187b",
+      "source": "EU-Startups",
+      "title": "Italy’s Z_One Fund secures over €35 million at first close to back AI and UrbanTech startups",
+      "url": "https://www.eu-startups.com/2026/10/italys-z_one-fund-secures-over-e35-million-at-first-close-to-back-ai-and-urbantech-startups/",
+      "summary": "Z_One Fund, the Italian venture capital fund managed by Eureka! Venture has announced the first close at more than €35 million, with a total fundraising target of €60 million. The fund’s investor base includes some of Italy’s most prominent institutional investors. CDP Venture Capital SGR has committed capital through its newly launched Fondo Acceleratori 2. […] The post Italy’s Z_One Fund secures",
+      "published_at": "2026-10-26T10:52:08+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "cb05752882a94f963544",
+      "fingerprint": "51f2f46d949b6fa253a4",
+      "source": "EU-Startups",
+      "title": "Finland’s Volare raises €7.1 million and opens 5,000-tonne insect protein factory",
+      "url": "https://www.eu-startups.com/2026/10/finlands-volare-raises-e7-1-million-and-opens-5000-tonne-insect-protein-factory/",
+      "summary": "Volare, a Finnish DeepTech company turning food-industry side streams into high-quality insect protein, has inaugurated its first industrial-scale facility called Volare 01 in Pori, Finland, and raised €7.1 million in fresh funding. The funding came from Springvest, with backing from both new and existing investors, including venture capital firm Maki.vc. “Volare 01 proves that our […] The post Fi",
+      "published_at": "2026-10-26T08:40:40+00:00",
+      "topics": [
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 4,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "6d6c3e2064b4b38f7318",
+      "fingerprint": "1789b64eb92e47d47d1f",
+      "source": "EU-Startups",
+      "title": "Lausanne’s Sonexos raises €5.4 million to tackle low-frequency noise from fans, compressors and even data centres",
+      "url": "https://www.eu-startups.com/2026/10/lausannes-sonexos-raises-e5-4-million-to-tackle-low-frequency-noise-from-fans-compressors-and-even-data-centres/",
+      "summary": "Sonexos, a Lausanne-based DeepTech company, has raised approximately €5.4 million (CHF 5 million/USD 6.1 million) in new equity financing to take its solid-state noise control from working prototypes to industrial production. The round was led by Valquest Partners, with participation from Robert Bosch Venture Capital GmbH (Bosch Ventures) and industry angels and private investors. Fadi […] The pos",
+      "published_at": "2026-10-26T08:20:38+00:00",
+      "topics": [
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 4,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    }
+  ],
   "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "No new relevant articles. Nothing urgent to do.",
+  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
   "autonomous_external_actions": false
 }

@@ -1,61 +1,61 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-10-25T12:40:00+00:00",
+  "updated_at": "2026-10-26T14:26:20+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
       "source": "HTGF News",
       "title": "Air Force Innovation Day 2026",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "445de2cc1c20b00bfa6a": {
       "fingerprint": "ca9db4a4cdd8a1b628ca",
       "source": "HTGF News",
       "title": "Zymofix to build flagship microbial manufacturing plant",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "e52610f5a606a5543c89": {
       "fingerprint": "9037dcd71699c85406ab",
       "source": "HTGF News",
       "title": "Jeroen Hoet on eyeo B.V.’s Sensor Breakthrough",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "d3905a02a15dc1bf2935": {
       "fingerprint": "a03a5cc105d0728c0e37",
       "source": "HTGF News",
       "title": "TrustNXT: What Makes Data Trustworthy for Autonomous Systems?",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "b60a671b2f7434e7caa0": {
       "fingerprint": "62e7f9631d84a8e062df",
       "source": "HTGF News",
       "title": "Kontext raises $4M to stop AI agents from going rogue at work",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "2de249f4e422779e16f2": {
       "fingerprint": "becc347ba4dd1c29c33b",
       "source": "HTGF News",
       "title": "Protection against sabotage: Arcos closes €5.5 million seed round for integrated security infrastructure",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "87a2ea7b1a5556306c8a": {
       "fingerprint": "3e2595aac9a2fb023932",
@@ -127,7 +127,7 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
@@ -469,7 +469,7 @@
       "fingerprint": "98bd283846df88c51e04",
       "source": "EU-Startups",
       "title": "Milan’s Phononic Vibes secures €25 million to expand noise control tech used by Deutsche Bahn and Mercedes-Benz",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "71f8355a6d748419f78b": {
       "fingerprint": "c6cb1f7d8d19d953ff5c",
@@ -517,24 +517,66 @@
       "fingerprint": "2bdf81ffaf187cd97e39",
       "source": "EU-Startups",
       "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 19 – Oct. 23)",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
     },
     "2e4d4ec467325dcb16d3": {
       "fingerprint": "2d1dec4168fd25eac00b",
       "source": "EU-Startups",
       "title": "ICEYE strengthens Ukraine’s satellite communications ambitions while expanding wildfire monitoring capabilities",
-      "observed_at": "2026-10-25T12:40:00+00:00"
+      "observed_at": "2026-10-26T14:26:20+00:00"
+    },
+    "5d1212f5c517f14d54db": {
+      "fingerprint": "2671a62e494075e785b5",
+      "source": "EU-Startups",
+      "title": "The 2026 PR playbook for startups: execution",
+      "observed_at": "2026-10-26T14:26:20+00:00"
+    },
+    "ce3998857e0f72549488": {
+      "fingerprint": "980e961c14decaf30430",
+      "source": "EU-Startups",
+      "title": "EU Inc. survives Council negotiations, but are Europe’s founders getting what they asked for?",
+      "observed_at": "2026-10-26T14:26:20+00:00"
+    },
+    "fc4ec499456d762eaa6e": {
+      "fingerprint": "9c15d2b0cf136263187b",
+      "source": "EU-Startups",
+      "title": "Italy’s Z_One Fund secures over €35 million at first close to back AI and UrbanTech startups",
+      "observed_at": "2026-10-26T14:26:20+00:00"
+    },
+    "9bdd397c1921e8275473": {
+      "fingerprint": "d4aefd89fe38738293bf",
+      "source": "EU-Startups",
+      "title": "With the EU now in range of Russian attacks, Helsing unveils new AI-powered missile defence system",
+      "observed_at": "2026-10-26T14:26:20+00:00"
+    },
+    "cb05752882a94f963544": {
+      "fingerprint": "51f2f46d949b6fa253a4",
+      "source": "EU-Startups",
+      "title": "Finland’s Volare raises €7.1 million and opens 5,000-tonne insect protein factory",
+      "observed_at": "2026-10-26T14:26:20+00:00"
+    },
+    "6d6c3e2064b4b38f7318": {
+      "fingerprint": "1789b64eb92e47d47d1f",
+      "source": "EU-Startups",
+      "title": "Lausanne’s Sonexos raises €5.4 million to tackle low-frequency noise from fans, compressors and even data centres",
+      "observed_at": "2026-10-26T14:26:20+00:00"
+    },
+    "900a551149613ad45e4c": {
+      "fingerprint": "f7538a4f069a2e315c3a",
+      "source": "EU-Startups",
+      "title": "Frankfurt’s QuoIntelligence lands backing from ex-German finance minister Christian Lindner months after €7.3 million Series A",
+      "observed_at": "2026-10-26T14:26:20+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-10-25T12:40:00+00:00",
+      "fetched_at": "2026-10-26T14:26:20+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-10-25T12:40:00+00:00",
+      "fetched_at": "2026-10-26T14:26:20+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"
