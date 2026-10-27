@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T14:26:20+00:00",
+  "generated_at": "2026-10-27T13:25:25+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
   "change_count": 5,
   "items": [
     {
-      "id": "fc4ec499456d762eaa6e",
-      "fingerprint": "9c15d2b0cf136263187b",
+      "id": "4ef85aec7ebdf94cff06",
+      "fingerprint": "c29c6c22ceffbc255149",
       "source": "EU-Startups",
-      "title": "Italy’s Z_One Fund secures over €35 million at first close to back AI and UrbanTech startups",
-      "url": "https://www.eu-startups.com/2026/10/italys-z_one-fund-secures-over-e35-million-at-first-close-to-back-ai-and-urbantech-startups/",
-      "summary": "Z_One Fund, the Italian venture capital fund managed by Eureka! Venture has announced the first close at more than €35 million, with a total fundraising target of €60 million. The fund’s investor base includes some of Italy’s most prominent institutional investors. CDP Venture Capital SGR has committed capital through its newly launched Fondo Acceleratori 2. […] The post Italy’s Z_One Fund secures",
-      "published_at": "2026-10-26T10:52:08+00:00",
+      "title": "WealthTech startup Nevis secures €62 million to automate financial advisory workflows with AI",
+      "url": "https://www.eu-startups.com/2026/10/wealthtech-startup-nevis-secures-e62-million-to-automate-financial-advisory-workflows-with-ai/",
+      "summary": "London/NY-based Nevis, an AI OS for wealth management, today announced its €62 million ($70 million) Series B in order to expand agent capabilities, deepen integrations across the custodian and WealthTech ecosystem, and grow its product and GTM teams. The round was led by EQT Ventures, bringing total funding to €98 million ($110 million) in two […] The post WealthTech startup Nevis secures €62 mil",
+      "published_at": "2026-10-26T15:09:36+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
@@ -25,13 +25,13 @@
       "change_type": "new_article"
     },
     {
-      "id": "cb05752882a94f963544",
-      "fingerprint": "51f2f46d949b6fa253a4",
+      "id": "389de30258bf83f3bcee",
+      "fingerprint": "2cc5777bb318f2a2abf2",
       "source": "EU-Startups",
-      "title": "Finland’s Volare raises €7.1 million and opens 5,000-tonne insect protein factory",
-      "url": "https://www.eu-startups.com/2026/10/finlands-volare-raises-e7-1-million-and-opens-5000-tonne-insect-protein-factory/",
-      "summary": "Volare, a Finnish DeepTech company turning food-industry side streams into high-quality insect protein, has inaugurated its first industrial-scale facility called Volare 01 in Pori, Finland, and raised €7.1 million in fresh funding. The funding came from Springvest, with backing from both new and existing investors, including venture capital firm Maki.vc. “Volare 01 proves that our […] The post Fi",
-      "published_at": "2026-10-26T08:40:40+00:00",
+      "title": "EXCLUSIVE: Copenhagen-based PropTech Cortas lands €1.47 million in a pre-Seed round led by PSV Tech",
+      "url": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/",
+      "summary": "Cortas, a Copenhagen-based PropTech startup building what it calls an entirely new operating model for property management, has raised €1.47 million in pre-Seed funding. The round was led by PSV Tech, which has backed Nordic companies for more than two decades and includes Lunar, Helloflow and Spektr in its portfolio. The round also saw participation […] The post EXCLUSIVE: Copenhagen-based PropTe",
+      "published_at": "2026-10-27T07:30:43+00:00",
       "topics": [
         "Early-stage funding"
       ],
@@ -42,18 +42,16 @@
       "change_type": "new_article"
     },
     {
-      "id": "6d6c3e2064b4b38f7318",
-      "fingerprint": "1789b64eb92e47d47d1f",
+      "id": "ac95b358a9dd20db937d",
+      "fingerprint": "ba12ec11cca97e644a8b",
       "source": "EU-Startups",
-      "title": "Lausanne’s Sonexos raises €5.4 million to tackle low-frequency noise from fans, compressors and even data centres",
-      "url": "https://www.eu-startups.com/2026/10/lausannes-sonexos-raises-e5-4-million-to-tackle-low-frequency-noise-from-fans-compressors-and-even-data-centres/",
-      "summary": "Sonexos, a Lausanne-based DeepTech company, has raised approximately €5.4 million (CHF 5 million/USD 6.1 million) in new equity financing to take its solid-state noise control from working prototypes to industrial production. The round was led by Valquest Partners, with participation from Robert Bosch Venture Capital GmbH (Bosch Ventures) and industry angels and private investors. Fadi […] The pos",
-      "published_at": "2026-10-26T08:20:38+00:00",
-      "topics": [
-        "Early-stage funding"
-      ],
+      "title": "British SME lender Lovey secures up to €298 million to support UK companies",
+      "url": "https://www.eu-startups.com/2026/10/british-sme-lender-lovey-secures-up-to-e298-million-to-support-uk-companies/",
+      "summary": "Lovey, a British FinTech and financial services provider specialising in SME lending and brokerage, has today announced a senior secured credit facility of up to €298 million (£250 million) with Pollen Street Capital, an alternative asset manager. The facility is made up of €59 million (£50 million) committed capital and a €238 million (£200 million) […] The post British SME lender Lovey secures u",
+      "published_at": "2026-10-27T11:43:06+00:00",
+      "topics": [],
       "event": "funding",
-      "priority": 4,
+      "priority": 2,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
