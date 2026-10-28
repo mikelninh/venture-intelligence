@@ -1,57 +1,60 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-27T13:25:25+00:00",
+  "generated_at": "2026-10-28T14:12:53+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 5,
+  "change_count": 12,
   "items": [
     {
-      "id": "4ef85aec7ebdf94cff06",
-      "fingerprint": "c29c6c22ceffbc255149",
+      "id": "ab849b8586ce3bb648e8",
+      "fingerprint": "0f53bbb8fa8d737a3403",
+      "source": "HTGF News",
+      "title": "Between Lab and Factory Floor: Where Are the Opportunities in Robotics?",
+      "url": "https://www.htgf.de/en/where-are-the-opportunities-in-robotics/",
+      "summary": "Between Lab and Factory Floor: Where Are the Opportunities in Robotics? Dr Gernot Berger (HTGF) and Rüdiger Süß (DLR Startup Factory) on Physical AI, spin-offs and investment potential Robotics is at a turning point. Physical AI, significantly more computing power and a structural labour shortage are all converging at the same time. In mid-October, HTGF […]",
+      "published_at": "2026-10-28T14:00:00+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 12,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "a9ce75d53ef747aad0dd",
+      "fingerprint": "9d6b6d4697f2c9b103a6",
+      "source": "HTGF News",
+      "title": "HTGF Robotics Day: From research to real-world applications",
+      "url": "https://www.htgf.de/en/htgf-robotics-day-2026/",
+      "summary": "HTGF Robotics Day: From research to real-world applications Physical AI, greater computing power and structural labour shortages are opening up new opportunities for robotics. At HTGF Robotics Day 2026, researchers, industry users, founders and investors explored what it takes to turn this potential into practical applications and scalable businesses. On 13 October 2026, High-Tech Gründerfonds […]",
+      "published_at": "2026-10-28T14:00:00+00:00",
+      "topics": [
+        "AI & Agents"
+      ],
+      "event": "research",
+      "priority": 10,
+      "next_action": "Read the original research or trial record before assessing relevance.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "d37b8c83fd9fdf1035b6",
+      "fingerprint": "6eac3d31cd70a007590d",
       "source": "EU-Startups",
-      "title": "WealthTech startup Nevis secures €62 million to automate financial advisory workflows with AI",
-      "url": "https://www.eu-startups.com/2026/10/wealthtech-startup-nevis-secures-e62-million-to-automate-financial-advisory-workflows-with-ai/",
-      "summary": "London/NY-based Nevis, an AI OS for wealth management, today announced its €62 million ($70 million) Series B in order to expand agent capabilities, deepen integrations across the custodian and WealthTech ecosystem, and grow its product and GTM teams. The round was led by EQT Ventures, bringing total funding to €98 million ($110 million) in two […] The post WealthTech startup Nevis secures €62 mil",
-      "published_at": "2026-10-26T15:09:36+00:00",
+      "title": "“My grandfather fell and remained on the floor for an entire day” – Magic Vision raises €600k for monitoring tech",
+      "url": "https://www.eu-startups.com/2026/10/my-grandfather-fell-and-remained-on-the-floor-for-an-entire-day-magic-vision-raises-e600k-for-monitoring-tech/",
+      "summary": "Magic Vision, an Italian DeepTech startup developing AI and computer vision technologies to monitor and support older people and vulnerable individuals, has closed a €600k funding round. Investors include SixS, the Italian company behind Gecos, a management software platform for the nonprofit sector, alongside a group of Italian business angels with expertise in law, compliance […] The post “My gr",
+      "published_at": "2026-10-28T11:56:39+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
       ],
       "event": "funding",
       "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "389de30258bf83f3bcee",
-      "fingerprint": "2cc5777bb318f2a2abf2",
-      "source": "EU-Startups",
-      "title": "EXCLUSIVE: Copenhagen-based PropTech Cortas lands €1.47 million in a pre-Seed round led by PSV Tech",
-      "url": "https://www.eu-startups.com/2026/10/exclusive-copenhagen-based-proptech-cortas-lands-e1-47-million-in-a-pre-seed-round-led-by-psv-tech/",
-      "summary": "Cortas, a Copenhagen-based PropTech startup building what it calls an entirely new operating model for property management, has raised €1.47 million in pre-Seed funding. The round was led by PSV Tech, which has backed Nordic companies for more than two decades and includes Lunar, Helloflow and Spektr in its portfolio. The round also saw participation […] The post EXCLUSIVE: Copenhagen-based PropTe",
-      "published_at": "2026-10-27T07:30:43+00:00",
-      "topics": [
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 4,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "ac95b358a9dd20db937d",
-      "fingerprint": "ba12ec11cca97e644a8b",
-      "source": "EU-Startups",
-      "title": "British SME lender Lovey secures up to €298 million to support UK companies",
-      "url": "https://www.eu-startups.com/2026/10/british-sme-lender-lovey-secures-up-to-e298-million-to-support-uk-companies/",
-      "summary": "Lovey, a British FinTech and financial services provider specialising in SME lending and brokerage, has today announced a senior secured credit facility of up to €298 million (£250 million) with Pollen Street Capital, an alternative asset manager. The facility is made up of €59 million (£50 million) committed capital and a €238 million (£200 million) […] The post British SME lender Lovey secures u",
-      "published_at": "2026-10-27T11:43:06+00:00",
-      "topics": [],
-      "event": "funding",
-      "priority": 2,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
