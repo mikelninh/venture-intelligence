@@ -1,49 +1,49 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-10-28T14:12:53+00:00",
+  "updated_at": "2026-10-29T14:32:27+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
       "source": "HTGF News",
       "title": "Air Force Innovation Day 2026",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "445de2cc1c20b00bfa6a": {
       "fingerprint": "ca9db4a4cdd8a1b628ca",
       "source": "HTGF News",
       "title": "Zymofix to build flagship microbial manufacturing plant",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "e52610f5a606a5543c89": {
       "fingerprint": "9037dcd71699c85406ab",
       "source": "HTGF News",
       "title": "Jeroen Hoet on eyeo B.V.’s Sensor Breakthrough",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "d3905a02a15dc1bf2935": {
       "fingerprint": "a03a5cc105d0728c0e37",
       "source": "HTGF News",
       "title": "TrustNXT: What Makes Data Trustworthy for Autonomous Systems?",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "b60a671b2f7434e7caa0": {
       "fingerprint": "62e7f9631d84a8e062df",
@@ -127,7 +127,7 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
@@ -607,25 +607,25 @@
       "fingerprint": "0f53bbb8fa8d737a3403",
       "source": "HTGF News",
       "title": "Between Lab and Factory Floor: Where Are the Opportunities in Robotics?",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "a9ce75d53ef747aad0dd": {
       "fingerprint": "9d6b6d4697f2c9b103a6",
       "source": "HTGF News",
       "title": "HTGF Robotics Day: From research to real-world applications",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "d37b8c83fd9fdf1035b6": {
       "fingerprint": "6eac3d31cd70a007590d",
       "source": "EU-Startups",
       "title": "“My grandfather fell and remained on the floor for an entire day” – Magic Vision raises €600k for monitoring tech",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "f4b5894dd9aa7784e212": {
       "fingerprint": "3b8203ccace9b409e56c",
       "source": "EU-Startups",
       "title": "OPINION: Scaling is the real test of Europe’s AI boom",
-      "observed_at": "2026-10-28T14:12:53+00:00"
+      "observed_at": "2026-10-29T14:32:27+00:00"
     },
     "0add057b2ff0a8a642f6": {
       "fingerprint": "a9b6359790c9434c4e39",
@@ -674,17 +674,65 @@
       "source": "EU-Startups",
       "title": "French VC Aquiti closes €60 million fund for founders outside of traditional venture hubs",
       "observed_at": "2026-10-28T14:12:53+00:00"
+    },
+    "0fa7b9cc1e1130b5d72d": {
+      "fingerprint": "b360e6c4a4ce1ed0886f",
+      "source": "EU-Startups",
+      "title": "French startup Bleu Robotics secures €5 million to teach humanoid robots new tasks with fewer demonstrations",
+      "observed_at": "2026-10-29T14:32:27+00:00"
+    },
+    "5e1705929ce91df2a13e": {
+      "fingerprint": "8b3aee2a9cb2ffddfbb8",
+      "source": "EU-Startups",
+      "title": "StrollMe bags €22 million to put more bikes, strollers and car seats into European homes",
+      "observed_at": "2026-10-29T14:32:27+00:00"
+    },
+    "fc7d8a0d446ad9b762d7": {
+      "fingerprint": "83d4d20cce7bc18d2798",
+      "source": "EU-Startups",
+      "title": "The EU-Startups Podcast | Interview with Jack Mardack, co-founder of Oyster",
+      "observed_at": "2026-10-29T14:32:27+00:00"
+    },
+    "8ea56889a15637fb3d30": {
+      "fingerprint": "24db84df6febb0c71471",
+      "source": "EU-Startups",
+      "title": "Pieterjan Bouten’s Entourage closes €100 million second fund after surpassing €75 million target in two weeks",
+      "observed_at": "2026-10-29T14:32:27+00:00"
+    },
+    "6ecc4ec7180547da3cfe": {
+      "fingerprint": "aa0a8dcf33cbccb1e481",
+      "source": "EU-Startups",
+      "title": "EXCLUSIVE: Freiburg’s VUSE XR raises €1.2 million to bring AI-powered mixed reality training to enterprises",
+      "observed_at": "2026-10-29T14:32:27+00:00"
+    },
+    "61ef602df7bb5fa53816": {
+      "fingerprint": "318535e94c9988a12478",
+      "source": "EU-Startups",
+      "title": "Auriga Partners reaches €80 million interim close for second fund dedicated to cybersecurity",
+      "observed_at": "2026-10-29T14:32:27+00:00"
+    },
+    "46cf60513b7961f1163f": {
+      "fingerprint": "220a2542e30f490d161b",
+      "source": "EU-Startups",
+      "title": "Profitable Dutch startup Braid raises €34.13 million to help brands launch their own mobile connectivity",
+      "observed_at": "2026-10-29T14:32:27+00:00"
+    },
+    "393d50fcd6c86298cb45": {
+      "fingerprint": "3f9700ee9d56ca2086c6",
+      "source": "EU-Startups",
+      "title": "German startups are betting big on Japan. Should the rest of Europe follow?",
+      "observed_at": "2026-10-29T14:32:27+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-10-28T14:12:53+00:00",
+      "fetched_at": "2026-10-29T14:32:27+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-10-28T14:12:53+00:00",
+      "fetched_at": "2026-10-29T14:32:27+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"
