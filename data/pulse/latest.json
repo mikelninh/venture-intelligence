@@ -1,36 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T14:23:59+00:00",
+  "generated_at": "2026-10-31T13:45:36+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 8,
+  "change_count": 3,
   "items": [
     {
-      "id": "475ceeb1eced65d2228b",
-      "fingerprint": "627b7d1228ead8d19b0b",
-      "source": "EU-Startups",
-      "title": "Madrid’s Talky raises €1.5 million to teach AI the unwritten rules of accounting",
-      "url": "https://www.eu-startups.com/2026/10/madrids-talky-raises-e1-5-million-to-teach-ai-the-unwritten-rules-of-accounting/",
-      "summary": "Talky Labs, a Spanish startup developing AI-powered technology to automate accounting and financial operations, has raised €1.5 million in a pre-Seed funding round to support team expansion, further product development and improvements to the company’s technical infrastructure. The investment, closed in September 2026, saw participation from venture capital firms HelloWorld, Silence VC, Motive For",
-      "published_at": "2026-10-30T12:50:55+00:00",
-      "topics": [
-        "AI & Agents",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
       "id": "136361268f61dfb3542f",
-      "fingerprint": "f10f2f795ffd9aa33aa1",
+      "fingerprint": "02990f59bf5deb8e2fc3",
       "source": "EU-Startups",
-      "title": "EXCLUSIVE: London’s Ares Intelligence raises €2.6 million to turn employee insights into AI adoption plans",
+      "title": "EXCLUSIVE: London’s Ares Intelligence raises €2.9 million to turn employee insights into AI adoption plans",
       "url": "https://www.eu-startups.com/2026/10/exclusive-londons-ares-intelligence-raises-e2-6-million-to-turn-employee-insights-into-ai-adoption-plans/",
-      "summary": "Ares Intelligence, a London-based startup building what it describes as an evidence-based platform for AI transformation, has secured €2.6 million in funding. The round was backed by Creandum and Lakestar, with participation from angels connected to Google DeepMind. “Enterprise AI today is mostly coding, and that’s only the start. The opportunity across the rest of […] The post EXCLUSIVE: London’s",
+      "summary": "Ares Intelligence, a London-based startup building what it describes as an evidence-based platform for AI transformation, has secured €2.9 million (£2.48 million) in funding. The round was backed by Creandum and Lakestar, with participation from angels connected to Google DeepMind. “Enterprise AI today is mostly coding, and that’s only the start. The opportunity across the […] The post EXCLUSIVE: ",
       "published_at": "2026-10-30T07:03:58+00:00",
       "topics": [
         "AI & Agents",
@@ -40,22 +22,38 @@
       "priority": 6,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
-      "change_type": "new_article"
+      "change_type": "updated_article"
     },
     {
-      "id": "4eb05ffce0e3e96e1a22",
-      "fingerprint": "5353f3493120625f9ea4",
+      "id": "722d15fb8556a4c3781b",
+      "fingerprint": "b81722281492cbba3151",
       "source": "EU-Startups",
-      "title": "Tool that identifies AI-generated material helps Pixel Systems raise €2.7 million",
-      "url": "https://www.eu-startups.com/2026/10/tool-that-identifies-ai-generated-material-helps-pixel-systems-raise-e2-7-million/",
-      "summary": "Swedish AI startup Pixel Systems has raised €2.7 million ($3.1 million) in a Seed round to accelerate their commercial initiatives and continue building the technology that helps identify AI-generated and manipulated images, documents, and other digital material. The round was led by Unconventional Ventures, at a pre-money valuation of approximately €18 million ($21 million). “Generative […] The p",
-      "published_at": "2026-10-29T15:10:17+00:00",
+      "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Oct. 26– Oct. 30)",
+      "url": "https://www.eu-startups.com/2026/10/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-oct-26-oct-30/",
+      "summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you […] The post Weekly funding round-up! All of the European startup funding rounds we tracke",
+      "published_at": "2026-10-30T16:20:34+00:00",
       "topics": [
-        "AI & Agents",
         "Early-stage funding"
       ],
       "event": "funding",
-      "priority": 6,
+      "priority": 4,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "dea91dbc8dbcf4cf8440",
+      "fingerprint": "aeca74909901701321e7",
+      "source": "EU-Startups",
+      "title": "The Netherlands risks losing its AgriTech crown, warns new report",
+      "url": "https://www.eu-startups.com/2026/10/the-netherlands-risks-losing-its-agritech-crown-warns-new-report/",
+      "summary": "The Netherlands has long been regarded as a European leader in agricultural and food innovation, but that position appears to be under threat. A new report published today by Dutch national investment institution Invest-NL warns that the country risks losing its competitive edge as other nations move faster to commercialise emerging agricultural technologies. According to […] The post The Netherla",
+      "published_at": "2026-10-30T15:46:24+00:00",
+      "topics": [
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 4,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
