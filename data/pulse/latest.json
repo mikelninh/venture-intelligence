@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T17:16:36+00:00",
+  "generated_at": "2026-11-03T15:23:09+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
   "change_count": 7,
   "items": [
     {
-      "id": "baa3fc9e2b1700168030",
-      "fingerprint": "dd51461ebd29566f1a9b",
+      "id": "0f91886bdebc15342edb",
+      "fingerprint": "9daa9212a67278db34fb",
       "source": "EU-Startups",
-      "title": "Swedish VC Creandum closes €668 million CVIII fund – its largest to date",
-      "url": "https://www.eu-startups.com/2026/11/swedish-vc-creandum-closes-e668-million-cviii-fund-its-largest-to-date/",
-      "summary": "Stockholm-based venture capital firm Creandum has closed a €668 million ($750 million) fund, Creandum VIII, to back early-stage technology startups from pre-Seed to Series A. The fund, its largest to date, will support approximately 30 investments over the next two years, with a particular interest in opportunities emerging from the rapid development of AI. It […] The post Swedish VC Creandum clos",
-      "published_at": "2026-11-02T10:16:41+00:00",
+      "title": "10 European bootstrapped startups who are crushing it in 2026",
+      "url": "https://www.eu-startups.com/2026/11/10-european-bootstrapped-startups-who-are-crushing-it-in-2026/",
+      "summary": "Europe’s startup ecosystem is often associated with major funding rounds, venture capital and ambitious expansion plans. However, some of the continent’s most interesting companies are taking a different approach, building their businesses without relying on external investors. From AI-powered software to sustainable mobility solutions, these startups are demonstrating that significant progress do",
+      "published_at": "2026-11-03T14:31:16+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
@@ -25,33 +25,33 @@
       "change_type": "new_article"
     },
     {
-      "id": "e4d48c3df0a25149d412",
-      "fingerprint": "d0aac1049aa706b21490",
+      "id": "ffaf9fea71f6070d5ecc",
+      "fingerprint": "17e604c76941efd6fafc",
       "source": "EU-Startups",
-      "title": "Munich’s Marble Cognition raises €3.35 million to build AI coworkers that learn business processes before automating them",
-      "url": "https://www.eu-startups.com/2026/11/munichs-marble-cognition-raises-e3-35-million-to-build-ai-coworkers-that-learn-business-processes-before-automating-them/",
-      "summary": "Marble Cognition (Marble), a Munich-based startup building AI coworkers that understand how work is executed to optimise and automate business operations, has raised €3.35 million ($3.75 million) in a pre-Seed round. The round was co-led by Heartcore and Seedcamp, with participation from angels including a board member of Datadog, a founder of Personio, and executives […] The post Munich’s Marble ",
-      "published_at": "2026-11-02T08:00:05+00:00",
-      "topics": [
-        "AI & Agents",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "7ee5f6206f38e2a9a96e",
-      "fingerprint": "70e690a5c9810b221eef",
-      "source": "EU-Startups",
-      "title": "Porto’s female-led startup Seamoretech secures €1.1 million to turn desalination brine into freshwater and critical minerals",
-      "url": "https://www.eu-startups.com/2026/11/portos-seamoretech-secures-e1-1-million-to-turn-desalination-brine-into-freshwater-and-critical-minerals/",
-      "summary": "Seamoretech, a Porto-based CleanTech startup that converts desalination brine into freshwater and critical minerals, has secured €1.1 million in the first closing of its Seed round. The round saw participation from Rypples, 7Seas Capital, and Crédito Agrícola, bringing together investors with experience in OceanTech and ClimateTech industries. The first closing has also brought the total […] The p",
-      "published_at": "2026-11-02T06:22:33+00:00",
+      "title": "Turning pollution into everyday products – Southampton’s Virdi raises €2.6 million to transform waste",
+      "url": "https://www.eu-startups.com/2026/11/turning-pollution-into-everyday-products-southamptons-virdi-raises-e2-6-million-to-transform-waste/",
+      "summary": "Viridi, a British DeepTech that enables the transformation of waste carbon dioxide into chemical products, has closed a €2.6 million (£2.2 million) round to scale their technology, strengthen its team and support its expansion into Asia and the US. The round was led by Odyssey Ventures, with co-investment from Alphatron Impact Ventures and follow-on commitments […] The post Turning pollution into ",
+      "published_at": "2026-11-03T12:35:55+00:00",
       "topics": [
         "Climate & Energy",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "3c40bb42eb6f9abfb923",
+      "fingerprint": "2b35daca40bb9e1ce16e",
+      "source": "EU-Startups",
+      "title": "Evertrue Capital raises €15 million debut fund backed by British Business Bank and Phoenix Court",
+      "url": "https://www.eu-startups.com/2026/11/4-evertrue-capital-raises-e15-million-debut-fund-backed-by-british-business-bank-and-phoenix-court/",
+      "summary": "British VC firm Evertrue Capital, the debut fund of Yvonne Bajela, has closed at €15 million ($17 million) aiming to invest €299-€599k (£250k–£500k) at pre-Seed in founders building frontier technologies primarily in the UK and Europe. The fund is backed by Phoenix Court through Basecamp, its fund of funds investing in a global community of […] The post Evertrue Capital raises €15 million debut fu",
+      "published_at": "2026-11-03T12:00:12+00:00",
+      "topics": [
+        "AI & Agents",
         "Early-stage funding"
       ],
       "event": "funding",
