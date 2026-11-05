@@ -1,40 +1,22 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T15:36:14+00:00",
+  "generated_at": "2026-11-05T15:40:15+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 10,
+  "change_count": 8,
   "items": [
     {
-      "id": "537c457dcad8e6f4e7e8",
-      "fingerprint": "0db896126bcc2b66fe24",
-      "source": "HTGF News",
-      "title": "Biograil raises €20 Million financing round",
-      "url": "https://www.htgf.de/en/biograil-raises-20-million-financing-round/",
-      "summary": "Biograil raises €20 Million financing round to advance preparations for clinical trials Biograil ApS, a Copenhagen based biotech company developing a unique oral device for delivery of therapeutics that would otherwise have to be injected, announced the closure of a EUR 20 million financing round. Verve Ventures and Megatrend Invest are backing the company, HTGF, […]",
-      "published_at": "2026-11-04T08:00:00+00:00",
-      "topics": [
-        "Life Sciences",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 12,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "f97bbc5c395c6eaf34cb",
-      "fingerprint": "0f4fd4adde9b1dfd962d",
+      "id": "63885f47fb56072390a6",
+      "fingerprint": "115366464b5437e743be",
       "source": "EU-Startups",
-      "title": "Exclusive: Top 10 largest investments by EIC in 2026 – so far",
-      "url": "https://www.eu-startups.com/2026/11/exclusive-top-10-largest-investments-by-eic-in-2026-so-far/",
-      "summary": "EU-Startups has received exclusive investment data directly from our partners at the European Innovation Council (EIC), revealing the ten companies that secured the largest EIC Fund commitments during the first three quarters of the year. From quantum computing and nuclear fusion to biotechnology and space technology, the total 85 investments made by the EIC in […] The post Exclusive: Top 10 large",
-      "published_at": "2026-11-04T13:11:00+00:00",
+      "title": "Stockholm’s Green Voltis raises €13.5 million to operate and trade battery storage across European power markets using AI",
+      "url": "https://www.eu-startups.com/2026/11/stockholms-green-voltis-raises-e13-5-million-to-operate-and-trade-battery-storage-across-european-power-markets-using-ai/",
+      "summary": "Green Voltis, a Stockholm-based route-to-market (RTM) optimiser that uses AI to operate and trade battery storage across European power markets, has raised €13.5 million in a Series A round, with Lochpine Capital as the sole investor. The company optimises standalone battery storage and co-located renewable-plus-storage projects, with more than 1.2 GWh under contract and in […] The post Stockholm’",
+      "published_at": "2026-11-05T11:50:53+00:00",
       "topics": [
+        "AI & Agents",
         "Climate & Energy",
-        "Life Sciences",
         "Early-stage funding"
       ],
       "event": "funding",
@@ -44,19 +26,36 @@
       "change_type": "new_article"
     },
     {
-      "id": "b0ac5e4bf68c213deb8b",
-      "fingerprint": "494a211ec91312bfe958",
+      "id": "37d59a9c8cfae7ac55e7",
+      "fingerprint": "70804ba7af8885b22ce7",
       "source": "EU-Startups",
-      "title": "Return secures €835 million financing to expand battery storage capacity in Germany",
-      "url": "https://www.eu-startups.com/2026/11/return-secures-e835-million-financing-to-expand-battery-storage-capacity-in-germany/",
-      "summary": "Amsterdam-based Return, an energy storage startup specialising in large-scale battery systems and energy flexibility services, has secured €835 million in portfolio financing underwritten by Deutsche Bank and Rabobank. The financing will support the company’s expansion in Germany, where it aims to install at least 1 GW of battery storage capacity annually from 2027 onwards. This […] The post Retur",
-      "published_at": "2026-11-04T15:22:31+00:00",
+      "title": "Barcelona’s Kabilio raises €10 million to deploy its AI accounting agent as client base nears 500 firms",
+      "url": "https://www.eu-startups.com/2026/11/barcelonas-kabilio-raises-e10-million-to-deploy-its-ai-accounting-agent-as-client-base-nears-500-firms/",
+      "summary": "Kabilio, a Barcelona-based startup building an AI platform for accounting firms and the small businesses they serve, has closed a €10 million funding round. The round was led by Picus Capital and Visionaries; they also led Kabilio’s pre-Seed round. CDTI, Spain’s public agency for technological innovation, also participated. “Nobody becomes an accountant to chase receipts, […] The post Barcelona’s ",
+      "published_at": "2026-11-05T09:19:45+00:00",
       "topics": [
         "AI & Agents",
-        "Climate & Energy"
+        "Early-stage funding"
       ],
       "event": "funding",
       "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "fa1c2099159941b43ed7",
+      "fingerprint": "26dcb17c38b6663d7b4c",
+      "source": "EU-Startups",
+      "title": "Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality",
+      "url": "https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/",
+      "summary": "Munich-based aviation startup VÆRIDION has raised €30 million in a Series A2 funding round and selected for a €94.5 million grant from the European Commission’s Innovation Fund, bringing the combined value to €124.5 million. The investment round was co-led by Dutch investors SHIFT Invest and Invest-NL, with participation from existing backers World Fund, Project A […] The post Germany’s VÆRIDION r",
+      "published_at": "2026-11-05T12:10:04+00:00",
+      "topics": [
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 4,
       "next_action": "Check the primary funding announcement: amount, investors and stage.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
