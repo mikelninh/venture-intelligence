@@ -1,68 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T15:40:15+00:00",
-  "status": "ok",
+  "generated_at": "2026-11-06T15:14:07+00:00",
+  "status": "partial",
   "first_run": false,
-  "feed_count": 2,
-  "change_count": 8,
-  "items": [
-    {
-      "id": "63885f47fb56072390a6",
-      "fingerprint": "115366464b5437e743be",
-      "source": "EU-Startups",
-      "title": "Stockholm’s Green Voltis raises €13.5 million to operate and trade battery storage across European power markets using AI",
-      "url": "https://www.eu-startups.com/2026/11/stockholms-green-voltis-raises-e13-5-million-to-operate-and-trade-battery-storage-across-european-power-markets-using-ai/",
-      "summary": "Green Voltis, a Stockholm-based route-to-market (RTM) optimiser that uses AI to operate and trade battery storage across European power markets, has raised €13.5 million in a Series A round, with Lochpine Capital as the sole investor. The company optimises standalone battery storage and co-located renewable-plus-storage projects, with more than 1.2 GWh under contract and in […] The post Stockholm’",
-      "published_at": "2026-11-05T11:50:53+00:00",
-      "topics": [
-        "AI & Agents",
-        "Climate & Energy",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 8,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "37d59a9c8cfae7ac55e7",
-      "fingerprint": "70804ba7af8885b22ce7",
-      "source": "EU-Startups",
-      "title": "Barcelona’s Kabilio raises €10 million to deploy its AI accounting agent as client base nears 500 firms",
-      "url": "https://www.eu-startups.com/2026/11/barcelonas-kabilio-raises-e10-million-to-deploy-its-ai-accounting-agent-as-client-base-nears-500-firms/",
-      "summary": "Kabilio, a Barcelona-based startup building an AI platform for accounting firms and the small businesses they serve, has closed a €10 million funding round. The round was led by Picus Capital and Visionaries; they also led Kabilio’s pre-Seed round. CDTI, Spain’s public agency for technological innovation, also participated. “Nobody becomes an accountant to chase receipts, […] The post Barcelona’s ",
-      "published_at": "2026-11-05T09:19:45+00:00",
-      "topics": [
-        "AI & Agents",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "fa1c2099159941b43ed7",
-      "fingerprint": "26dcb17c38b6663d7b4c",
-      "source": "EU-Startups",
-      "title": "Germany’s VÆRIDION raises €124 million to bring electric regional flights closer to reality",
-      "url": "https://www.eu-startups.com/2026/11/germanys-vaeridion-raises-e124-million-to-bring-electric-regional-flights-closer-to-reality/",
-      "summary": "Munich-based aviation startup VÆRIDION has raised €30 million in a Series A2 funding round and selected for a €94.5 million grant from the European Commission’s Innovation Fund, bringing the combined value to €124.5 million. The investment round was co-led by Dutch investors SHIFT Invest and Invest-NL, with participation from existing backers World Fund, Project A […] The post Germany’s VÆRIDION r",
-      "published_at": "2026-11-05T12:10:04+00:00",
-      "topics": [
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 4,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    }
+  "feed_count": 1,
+  "change_count": 0,
+  "items": [],
+  "warnings": [
+    "EU-Startups: fetch failed"
   ],
-  "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
+  "next_best_action": "No new relevant articles. Nothing urgent to do.",
   "autonomous_external_actions": false
 }
