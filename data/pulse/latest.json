@@ -1,15 +1,68 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T14:15:01+00:00",
-  "status": "partial",
+  "generated_at": "2026-11-08T14:23:58+00:00",
+  "status": "ok",
   "first_run": false,
-  "feed_count": 1,
-  "change_count": 0,
-  "items": [],
-  "warnings": [
-    "EU-Startups: fetch failed"
+  "feed_count": 2,
+  "change_count": 9,
+  "items": [
+    {
+      "id": "b2172de8e268189ba63c",
+      "fingerprint": "85951417e72d08dc9a44",
+      "source": "EU-Startups",
+      "title": "Bioliberty raises €2.95 million to bring its AI-powered rehabilitation technology into the home",
+      "url": "https://www.eu-startups.com/2026/11/bioliberty-raises-e2-95-million-to-bring-its-ai-powered-rehabilitation-technology-into-the-home/",
+      "summary": "Bioliberty, an Edinburgh- and Boston-based rehabilitation technology startup, has raised a €2.95 million ($3.3 million) Series A extension, bringing its total funding to €12.07 million ($13.5 million). The Series A extension adds four new institutional backers: TGH Ventures, the investment arm of Tampa General Hospital; Ballad Ventures; Belfast-based Whiterock; and 25m Health. The extension builds",
+      "published_at": "2026-11-06T09:13:13+00:00",
+      "topics": [
+        "AI & Agents",
+        "Life Sciences",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 8,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "b66a288f733356722416",
+      "fingerprint": "17a255ade8b8bf794949",
+      "source": "EU-Startups",
+      "title": "The EIC confirms €1.8 billion for startups in 2027, with expanded defence and women-led startup support",
+      "url": "https://www.eu-startups.com/2026/11/the-eic-confirms-e1-8-billion-for-startups-and-deeptech-in-2027-with-expanded-defence-and-women-led-startup-support/",
+      "summary": "The European Commission has adopted the 2027 European Innovation Council (EIC) Work Programme, allocating €1.8 billion to support DeepTech startups, scale-ups and researchers across Europe. The funding package aims to help promising technologies move from early-stage research to commercialisation, while improving access to investment for women-led and DefenceTech companies. Ekaterina Zaharieva, Co",
+      "published_at": "2026-11-05T15:47:02+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "f531f5ee97c3b115d96b",
+      "fingerprint": "41297db6f23cdfe84113",
+      "source": "EU-Startups",
+      "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov. 02– Nov. 06)",
+      "url": "https://www.eu-startups.com/2026/11/weekly-funding-round-up-all-of-the-european-startup-funding-rounds-we-tracked-this-week-nov-02-nov-06/",
+      "summary": "This article is visible for CLUB members only. If you are already a member but don’t see the content of this article, please login here. If you’re not a CLUB member yet, but you’d like to read members-only content like this one, have unrestricted access to the site and benefit from many additional perks, you […] The post Weekly funding round-up! All of the European startup funding rounds we tracke",
+      "published_at": "2026-11-06T16:55:23+00:00",
+      "topics": [
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 4,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    }
   ],
+  "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "No new relevant articles. Nothing urgent to do.",
+  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
   "autonomous_external_actions": false
 }
