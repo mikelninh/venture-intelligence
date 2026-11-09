@@ -1,25 +1,25 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-11-08T14:23:58+00:00",
+  "updated_at": "2026-11-09T17:42:00+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
@@ -127,7 +127,7 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
@@ -607,13 +607,13 @@
       "fingerprint": "0f53bbb8fa8d737a3403",
       "source": "HTGF News",
       "title": "Between Lab and Factory Floor: Where Are the Opportunities in Robotics?",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "a9ce75d53ef747aad0dd": {
       "fingerprint": "9d6b6d4697f2c9b103a6",
       "source": "HTGF News",
       "title": "HTGF Robotics Day: From research to real-world applications",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "d37b8c83fd9fdf1035b6": {
       "fingerprint": "6eac3d31cd70a007590d",
@@ -877,7 +877,7 @@
       "fingerprint": "0db896126bcc2b66fe24",
       "source": "HTGF News",
       "title": "Biograil raises €20 Million financing round",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "b0ac5e4bf68c213deb8b": {
       "fingerprint": "494a211ec91312bfe958",
@@ -997,7 +997,7 @@
       "fingerprint": "41297db6f23cdfe84113",
       "source": "EU-Startups",
       "title": "Weekly funding round-up! All of the European startup funding rounds we tracked this week (Nov. 02– Nov. 06)",
-      "observed_at": "2026-11-08T14:23:58+00:00"
+      "observed_at": "2026-11-09T17:42:00+00:00"
     },
     "bf83289665b4ddae3229": {
       "fingerprint": "1f13a1b1bdbf7ecebaf5",
@@ -1046,17 +1046,89 @@
       "source": "EU-Startups",
       "title": "The EIC confirms €1.8 billion for startups in 2027, with expanded defence and women-led startup support",
       "observed_at": "2026-11-08T14:23:58+00:00"
+    },
+    "52ce29c09f86836eb8e3": {
+      "fingerprint": "4f2e9d5298c47075cb48",
+      "source": "HTGF News",
+      "title": "Marble Imaging raises additional €6 million led by Cherry Ventures",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "28282858e7737234fe03": {
+      "fingerprint": "e70f59325cb2422abc76",
+      "source": "HTGF News",
+      "title": "SRTD Biotech raises a €31.5 million seed round",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "efa7e36b431fd76149e2": {
+      "fingerprint": "f3e21c33340abe52abd4",
+      "source": "HTGF News",
+      "title": "Where venture capital can fix Europe’s grid: HTGF and Vireo publish The European Grid Deep Dive",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "8f9eb45db94a38ec64f8": {
+      "fingerprint": "9145a93f039a0acdf559",
+      "source": "EU-Startups",
+      "title": "From tending graves to raising €1.7 million: Memora sets out to modernise Europe’s cemeteries",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "9adf3f8745d668fcc32b": {
+      "fingerprint": "96e74069a44e52345ec9",
+      "source": "EU-Startups",
+      "title": "OPINION: Long sales cycles could be FinTech’s biggest competitive advantage",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "5665385c14fb291eb728": {
+      "fingerprint": "87311ddc04372d3983db",
+      "source": "EU-Startups",
+      "title": "SWISSto12 and UNIVITY work together to build sovereign 5G infrastructure in space",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "b9dd523e82a26a7341a4": {
+      "fingerprint": "24686af7b26016a935f9",
+      "source": "EU-Startups",
+      "title": "Jülich-based SRTD Biotech secures €31.5 million to develop precision mRNA therapies targeting diseased cells",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "348d0bf5e5242d19b596": {
+      "fingerprint": "d3879c39f773a7c04c18",
+      "source": "EU-Startups",
+      "title": "OPINION: Building open source gives startups a head start, not a moat",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "65edd1c18d87b77096fb": {
+      "fingerprint": "352eae2168fcbf9adeb8",
+      "source": "EU-Startups",
+      "title": "Palantir alumni-founded DefenceTech Onodrim hits unicorn status with €268.01 million raise",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "448ddb0859f4dc1d10e1": {
+      "fingerprint": "9f378619fb0e9b9e737b",
+      "source": "EU-Startups",
+      "title": "Bulgaria’s BlackPeak Capital reaches €125 million first close for new Southeast Europe growth fund",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "eb3df8b91691d21348e9": {
+      "fingerprint": "1e97ec9060ca75c28d4b",
+      "source": "EU-Startups",
+      "title": "France’s Calogena secures €40 million EU grant to build its first commercial nuclear reactor",
+      "observed_at": "2026-11-09T17:42:00+00:00"
+    },
+    "d657ab1fca9b4c54690a": {
+      "fingerprint": "37cbafd672060c57d4bd",
+      "source": "EU-Startups",
+      "title": "Marble Imaging raises €6 million to build Germany’s first commercial very-high-resolution satellite constellation",
+      "observed_at": "2026-11-09T17:42:00+00:00"
     }
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-11-08T14:23:58+00:00",
+      "fetched_at": "2026-11-09T17:42:00+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
     },
     "EU-Startups": {
-      "fetched_at": "2026-11-08T14:23:58+00:00",
+      "fetched_at": "2026-11-09T17:42:00+00:00",
       "feed_url": "https://www.eu-startups.com/feed/",
       "count": 10,
       "status": "ok"
