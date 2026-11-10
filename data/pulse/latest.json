@@ -1,66 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-09T17:42:00+00:00",
-  "status": "ok",
+  "generated_at": "2026-11-10T15:41:49+00:00",
+  "status": "partial",
   "first_run": false,
-  "feed_count": 2,
-  "change_count": 9,
-  "items": [
-    {
-      "id": "28282858e7737234fe03",
-      "fingerprint": "e70f59325cb2422abc76",
-      "source": "HTGF News",
-      "title": "SRTD Biotech raises a €31.5 million seed round",
-      "url": "https://www.htgf.de/en/srtd-biotech-raises-a-e31-5-million-seed-round/",
-      "summary": "SRTD Biotech raises a €31.5 million seed round to develop next-generation precision mRNA therapeutics The financing was led by Mérieux Equity Partners, and co-led by NRW.BANK and Boehringer Ingelheim Venture Fund, alongside Lilly Ventures and HTGF SRTD Biotech (“SRTD”), a leading biotechnology company focused on developing next-generation precision mRNA therapeutics, today announces the successful",
-      "published_at": "2026-11-09T08:13:30+00:00",
-      "topics": [
-        "Life Sciences",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 12,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "52ce29c09f86836eb8e3",
-      "fingerprint": "4f2e9d5298c47075cb48",
-      "source": "HTGF News",
-      "title": "Marble Imaging raises additional €6 million led by Cherry Ventures",
-      "url": "https://www.htgf.de/en/marble-imaging-raises-additional-e6-million-led-by-cherry-ventures/",
-      "summary": "Marble Imaging raises additional €6 million led by Cherry Ventures to unlock independent European access to key geospatial intelligence This capital accelerates satellite and launch procurement for Germany’s first commercial very high-resolution constellation at a time where sovereign insights are becoming ever more critical. Marble Imaging, founded to fill a critical capability gap in Europe’s […",
-      "published_at": "2026-11-09T09:20:36+00:00",
-      "topics": [
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 10,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "efa7e36b431fd76149e2",
-      "fingerprint": "f3e21c33340abe52abd4",
-      "source": "HTGF News",
-      "title": "Where venture capital can fix Europe’s grid: HTGF and Vireo publish The European Grid Deep Dive",
-      "url": "https://www.htgf.de/en/the-european-grid-deep-dive/",
-      "summary": "Where venture capital can fix Europe’s grid: HTGF and Vireo publish The European Grid Deep Dive",
-      "published_at": "2026-11-09T07:36:15+00:00",
-      "topics": [
-        "Early-stage funding"
-      ],
-      "event": "other",
-      "priority": 8,
-      "next_action": "Open the original source and decide whether further investigation is useful.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    }
+  "feed_count": 1,
+  "change_count": 0,
+  "items": [],
+  "warnings": [
+    "EU-Startups: fetch failed"
   ],
-  "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
+  "next_best_action": "No new relevant articles. Nothing urgent to do.",
   "autonomous_external_actions": false
 }
