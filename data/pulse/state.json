@@ -1,25 +1,25 @@
 {
   "schema_version": 1,
   "initialized": true,
-  "updated_at": "2026-11-12T16:05:30+00:00",
+  "updated_at": "2026-11-13T15:32:31+00:00",
   "seen": {
     "180b4fa8b8872d118ff8": {
       "fingerprint": "e389545a03e452069d09",
       "source": "HTGF News",
       "title": "Dr Klaus Schäfer joins cyclize in an operational role",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "f4100f6e2b3fd118dd9b": {
       "fingerprint": "315de1150e3f53459317",
       "source": "HTGF News",
       "title": "Finches Raises €2M Pre-Seed",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "996cb3ab62019a02e2d8": {
       "fingerprint": "bbb0c3b6a585a8e02cab",
       "source": "HTGF News",
       "title": "TODAY Secures €2.8M to scale compliant AI agents for financial advisors.",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "73c4b341a6038cf4dfb8": {
       "fingerprint": "98030b3be744ccd7fb1d",
@@ -127,7 +127,7 @@
       "fingerprint": "33dca6f662a1c13f15aa",
       "source": "HTGF News",
       "title": "Rabot Energy raises $50M in Series B",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "b19b65a230047b690dfa": {
       "fingerprint": "dd264a6fb099b336b1e9",
@@ -607,13 +607,13 @@
       "fingerprint": "0f53bbb8fa8d737a3403",
       "source": "HTGF News",
       "title": "Between Lab and Factory Floor: Where Are the Opportunities in Robotics?",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "a9ce75d53ef747aad0dd": {
       "fingerprint": "9d6b6d4697f2c9b103a6",
       "source": "HTGF News",
       "title": "HTGF Robotics Day: From research to real-world applications",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "d37b8c83fd9fdf1035b6": {
       "fingerprint": "6eac3d31cd70a007590d",
@@ -877,7 +877,7 @@
       "fingerprint": "0db896126bcc2b66fe24",
       "source": "HTGF News",
       "title": "Biograil raises €20 Million financing round",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "b0ac5e4bf68c213deb8b": {
       "fingerprint": "494a211ec91312bfe958",
@@ -1051,19 +1051,19 @@
       "fingerprint": "4f2e9d5298c47075cb48",
       "source": "HTGF News",
       "title": "Marble Imaging raises additional €6 million led by Cherry Ventures",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "28282858e7737234fe03": {
       "fingerprint": "e70f59325cb2422abc76",
       "source": "HTGF News",
       "title": "SRTD Biotech raises a €31.5 million seed round",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "efa7e36b431fd76149e2": {
       "fingerprint": "f3e21c33340abe52abd4",
       "source": "HTGF News",
       "title": "Where venture capital can fix Europe’s grid: HTGF and Vireo publish The European Grid Deep Dive",
-      "observed_at": "2026-11-12T16:05:30+00:00"
+      "observed_at": "2026-11-13T15:32:31+00:00"
     },
     "8f9eb45db94a38ec64f8": {
       "fingerprint": "9145a93f039a0acdf559",
@@ -1122,7 +1122,7 @@
   },
   "sources": {
     "HTGF News": {
-      "fetched_at": "2026-11-12T16:05:30+00:00",
+      "fetched_at": "2026-11-13T15:32:31+00:00",
       "feed_url": "https://www.htgf.de/en/feed/",
       "count": 10,
       "status": "ok"
