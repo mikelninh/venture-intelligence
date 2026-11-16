@@ -1,15 +1,68 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T14:52:38+00:00",
-  "status": "partial",
+  "generated_at": "2026-11-16T17:13:29+00:00",
+  "status": "ok",
   "first_run": false,
-  "feed_count": 1,
-  "change_count": 0,
-  "items": [],
-  "warnings": [
-    "EU-Startups: fetch failed"
+  "feed_count": 2,
+  "change_count": 10,
+  "items": [
+    {
+      "id": "4e9ab0fad1358cd1ab29",
+      "fingerprint": "3ff410845a2ddeff4480",
+      "source": "EU-Startups",
+      "title": "Alecto lands €18 million to scale its AI-powered law firm beyond property transactions",
+      "url": "https://www.eu-startups.com/2026/11/alecto-lands-e18-million-to-scale-its-ai-powered-law-firm-beyond-property-transactions/",
+      "summary": "Alecto, a British AI-native law firm, has raised a €18 million ($20 million) Seed round, to support the company’s expansion into additional areas of consumer law and new geographies, with its first international launch planned for 2027. The round was led by Insight Partners, with participation from Firstminute Capital, Blue Lion Global, Andrena Ventures, FJ Labs, […] The post Alecto lands €18 mill",
+      "published_at": "2026-11-16T16:09:10+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "ee7637278501036a482a",
+      "fingerprint": "1e7315a0f6d562e51cfd",
+      "source": "EU-Startups",
+      "title": "Europe’s first electric motorcycle unicorn: Profitable Barcelona-based Stark Future raises over €150 million",
+      "url": "https://www.eu-startups.com/2026/11/europes-first-electric-motorcycle-unicorn-profitable-barcelona-based-stark-future-raises-over-e150-million/",
+      "summary": "Stark Future, a Barcelona-based premium electric motorcycle and technology company, today announced the close of a financing round exceeding €150 million at a €1.2 billion pre-money valuation. The round was led by Highland Europe, alongside Morgan Stanley Investment Management’s 1GT climate private equity strategy and Spain-based international investment firm Axon Partners Group, with participatio",
+      "published_at": "2026-11-16T10:57:23+00:00",
+      "topics": [
+        "Climate & Energy",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "e9cf46e481cd179b83dd",
+      "fingerprint": "c12aa2566e365d8d5498",
+      "source": "EU-Startups",
+      "title": "Finland’s Intergrid announces €23.5 million to scale autonomous energy operations internationally",
+      "url": "https://www.eu-startups.com/2026/11/finlands-intergrid-announces-e23-5-million-to-scale-autonomous-energy-operations-internationally/",
+      "summary": "Intergrid, a Helsinki-based EnergyTech company that enables fully autonomous industrial energy operations with its Autopilot, today announced its total funding of €23.5 million and its plans for international expansion. The latest round was led by Kvanted and Tesi, with continued support by Intergrid’s existing investors True Ventures, Lifeline Ventures and First Fellow Partners. The total […] The",
+      "published_at": "2026-11-16T10:37:28+00:00",
+      "topics": [
+        "Climate & Energy",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    }
   ],
+  "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "No new relevant articles. Nothing urgent to do.",
+  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
   "autonomous_external_actions": false
 }
