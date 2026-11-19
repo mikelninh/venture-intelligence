@@ -1,51 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T16:37:46+00:00",
+  "generated_at": "2026-11-19T16:40:40+00:00",
   "status": "partial",
   "first_run": false,
   "feed_count": 1,
-  "change_count": 2,
-  "items": [
-    {
-      "id": "8ebef188b53f8024f7e0",
-      "fingerprint": "2aa085b5ada9d551922f",
-      "source": "HTGF News",
-      "title": "Dcubed raises oversubscribed €27.2 million round",
-      "url": "https://www.htgf.de/en/dcubed-raises-oversubscribed-27-2-million-round/",
-      "summary": "Dcubed raises oversubscribed €27.2 million round to accelerate global leadership in space deployment systems and power Oversubscribed Series A+ led by Warsaw Equity Group, with the EIC Fund and HTGF Opportunity Fund, scales production in Germany and the United States and takes the ARAQYS advanced solar array to orbit in 2027 Dcubed, a leading provider […]",
-      "published_at": "2026-11-18T07:57:00+00:00",
-      "topics": [
-        "Climate & Energy",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 12,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "e686aee056a441e4cb2a",
-      "fingerprint": "954cece1e8be42155e0d",
-      "source": "HTGF News",
-      "title": "Exit for Berlin AI startup traide AI",
-      "url": "https://www.htgf.de/en/exit-for-berlin-ai-startup-traide-ai/",
-      "summary": "Exit for Berlin AI startup traide AI: CONEX Group acquires customs compliance specialist traide AI grew from 5 to more than 300 customers in the last three years. Joining CONEX opens access to ten European countries – while the brand, founding team and headquarters stay in Berlin. Berlin-based AI startup traide AI is joining CONEX, […]",
-      "published_at": "2026-11-18T13:08:32+00:00",
-      "topics": [
-        "AI & Agents"
-      ],
-      "event": "other",
-      "priority": 8,
-      "next_action": "Open the original source and decide whether further investigation is useful.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    }
-  ],
+  "change_count": 0,
+  "items": [],
   "warnings": [
     "EU-Startups: fetch failed"
   ],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
+  "next_best_action": "No new relevant articles. Nothing urgent to do.",
   "autonomous_external_actions": false
 }
