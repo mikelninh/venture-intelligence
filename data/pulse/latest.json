@@ -1,40 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T15:29:17+00:00",
+  "generated_at": "2026-11-23T19:22:47+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 9,
+  "change_count": 7,
   "items": [
     {
-      "id": "8300f94bf038b92a5b99",
-      "fingerprint": "533249fd82e7b5b590f7",
+      "id": "be5543f458d2d6dae9a1",
+      "fingerprint": "3e8fe15572e6b966fb7e",
       "source": "EU-Startups",
-      "title": "Madrid-based Wilco secures €2.5 million to scale its AI patient follow-up platform across Europe",
-      "url": "https://www.eu-startups.com/2026/11/madrid-based-wilco-secures-e2-5-million-to-scale-its-ai-patient-follow-up-platform-across-europe/",
-      "summary": "Wilco, a Madrid-based startup building AI voice and messaging agents for healthcare clinic groups, has announced its launch and a new €2.5 million funding round. The round was led by Samaipata, the European venture capital fund known for backing marketplace and software businesses across the continent. ABAC Nest Ventures, the venture arm of Abac Capital, […] The post Madrid-based Wilco secures €2.",
-      "published_at": "2026-11-20T09:56:25+00:00",
+      "title": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure",
+      "url": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
+      "summary": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a €63.87 million ($70 million) Series A round at a valuation of €411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, and Global Founders Capital. The UK Government’s Sovereign AI […] The post UK-based ",
+      "published_at": "2026-11-23T13:40:17+00:00",
       "topics": [
         "AI & Agents",
-        "Life Sciences",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 8,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "b59b222dba9a78929890",
-      "fingerprint": "bdd7ddf5244efe7cfdc0",
-      "source": "EU-Startups",
-      "title": "UK startup Clarity Sensors receives €2.2 million NIHR award to make advanced medical imaging more accessible",
-      "url": "https://www.eu-startups.com/2026/11/uk-startup-clarity-sensors-receives-e2-2-million-nihr-award-to-make-advanced-medical-imaging-more-accessible/",
-      "summary": "Cambridge-based semiconductor startup Clarity Sensors has secured a €2.2 million to support the development of a new generation of photon-counting CT detectors designed to make advanced medical imaging more affordable and accessible to hospitals. The funding came in the form of a Product Development Award from the National Institute for Health and Care Research (NIHR) […] The post UK startup Clari",
-      "published_at": "2026-11-20T14:24:23+00:00",
-      "topics": [
-        "Life Sciences",
         "Early-stage funding"
       ],
       "event": "funding",
@@ -44,13 +25,31 @@
       "change_type": "new_article"
     },
     {
-      "id": "9a5306345c0bd54e9434",
-      "fingerprint": "e978124762dd166222c9",
+      "id": "95f8516759c20e88d051",
+      "fingerprint": "200f5d3be142a05a545f",
       "source": "EU-Startups",
-      "title": "Archer raises €9.1 million to deploy AI recruiting agents for employers and job seekers",
-      "url": "https://www.eu-startups.com/2026/11/london-based-archer-raises-e9-1-million-to-deploy-ai-recruiting-agents-for-employers-and-job-seekers/",
-      "summary": "Archer (formerly hackajob), a London- and New York-based AI recruiting agent that works for both recruiters and job seekers, has raised €9.1 million ($10 million) in a new funding round. The round was led by Volition Capital, with participation from existing investor AVP. The company has now raised more than €41.06 million ($45 million) in […] The post Archer raises €9.1 million to deploy AI recru",
-      "published_at": "2026-11-20T12:41:53+00:00",
+      "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
+      "url": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/",
+      "summary": "Theseus Robotics, a Swiss startup developing AI-powered robots to automate shelf restocking and online grocery order picking, has secured €455k ($500k) from Y Combinator and will be launching in a grocery store in Silicon Valley. The investment follows earlier backing from Founderful Campus, S2S Ventures, Earthling VC and Berlin-based Caesar Ventures, as the company prepares […] The post Theseus R",
+      "published_at": "2026-11-23T11:15:57+00:00",
+      "topics": [
+        "AI & Agents",
+        "Early-stage funding"
+      ],
+      "event": "funding",
+      "priority": 6,
+      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "claim_status": "reported_by_source",
+      "change_type": "new_article"
+    },
+    {
+      "id": "a6cec2f0e56a996d05ef",
+      "fingerprint": "e823a5ebc1b65ad453b2",
+      "source": "EU-Startups",
+      "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
+      "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
+      "summary": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Labs, with participation from NFG Ventures, the firm founded by early Monzo […] The post London-based Acorda raises €2.15 m",
+      "published_at": "2026-11-23T10:31:19+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
