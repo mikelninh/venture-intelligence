@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T19:22:47+00:00",
+  "generated_at": "2026-11-24T18:59:13+00:00",
   "status": "ok",
   "first_run": false,
   "feed_count": 2,
-  "change_count": 7,
+  "change_count": 4,
   "items": [
     {
-      "id": "be5543f458d2d6dae9a1",
-      "fingerprint": "3e8fe15572e6b966fb7e",
+      "id": "d4599c18efba4d5e8c9f",
+      "fingerprint": "97406798132b649bae8f",
       "source": "EU-Startups",
-      "title": "UK-based Agon raises €63.98 million at €411.3 million valuation to build Europe’s sovereign defence AI infrastructure",
-      "url": "https://www.eu-startups.com/2026/11/uk-based-agon-raises-e63-98-million-at-e411-3-million-valuation-to-build-europes-sovereign-defence-ai-infrastructure/",
-      "summary": "Agon, a London-based defence AI startup building sovereign infrastructure for autonomous military systems, has raised a €63.87 million ($70 million) Series A round at a valuation of €411.3 million ($450 million). The round was led by Northzone with participation from returning investors Lakestar, XYZ, Lux Capital, and Global Founders Capital. The UK Government’s Sovereign AI […] The post UK-based ",
-      "published_at": "2026-11-23T13:40:17+00:00",
+      "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
+      "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
+      "summary": "Bcomp, a Fribourg-based CleanTech startup specialising in high-performance bio-based materials, has secured €20 million from the European Investment Bank (EIB) to build a high-volume manufacturing plant in the Romanian city of Timișoara and continue research and development in Fribourg. This EIB backing takes the form of €20 million in venture debt, supporting the company’s €47.6 […] The post Bcom",
+      "published_at": "2026-11-24T11:34:52+00:00",
       "topics": [
-        "AI & Agents",
+        "Climate & Energy",
         "Early-stage funding"
       ],
       "event": "funding",
@@ -25,15 +25,15 @@
       "change_type": "new_article"
     },
     {
-      "id": "95f8516759c20e88d051",
-      "fingerprint": "200f5d3be142a05a545f",
+      "id": "a5e600af7fe21e1b97a0",
+      "fingerprint": "f741f1941459c2898928",
       "source": "EU-Startups",
-      "title": "Theseus Robotics secures €455k to put robots to work in supermarkets across Europe and US",
-      "url": "https://www.eu-startups.com/2026/11/theseus-robotics-secures-e455k-to-put-robots-to-work-in-supermarkets-across-europe-and-us/",
-      "summary": "Theseus Robotics, a Swiss startup developing AI-powered robots to automate shelf restocking and online grocery order picking, has secured €455k ($500k) from Y Combinator and will be launching in a grocery store in Silicon Valley. The investment follows earlier backing from Founderful Campus, S2S Ventures, Earthling VC and Berlin-based Caesar Ventures, as the company prepares […] The post Theseus R",
-      "published_at": "2026-11-23T11:15:57+00:00",
+      "title": "Amsterdam’s Good Heat raises €2 million to replace industrial gas-fired steam boilers with heat batteries",
+      "url": "https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/",
+      "summary": "Good Heat, an Amsterdam-based startup that delivers zero-carbon heat as a service to industrial heat users, has raised €2 million to support its growing project pipeline. The round is led by SET Ventures, Europe’s leading energy VC, with participation from Shell Ventures and existing investor Investible. In October 2025, the company announced €1.83 million ($2 […] The post Amsterdam’s Good Heat ra",
+      "published_at": "2026-11-24T09:00:10+00:00",
       "topics": [
-        "AI & Agents",
+        "Climate & Energy",
         "Early-stage funding"
       ],
       "event": "funding",
@@ -43,20 +43,20 @@
       "change_type": "new_article"
     },
     {
-      "id": "a6cec2f0e56a996d05ef",
-      "fingerprint": "e823a5ebc1b65ad453b2",
+      "id": "41fc005ebff8a2830ea8",
+      "fingerprint": "965080c79762814f18d0",
       "source": "EU-Startups",
-      "title": "London-based Acorda raises €2.15 million to help banks detect payment scams before money moves",
-      "url": "https://www.eu-startups.com/2026/11/london-based-acorda-raises-e2-15-million-to-help-banks-detect-payment-scams-before-money-moves/",
-      "summary": "Acorda, a London-based FinTech startup helping payment providers stop financial scams through shared risk data, has raised €2.15 million (£1.8 million) in a pre-Seed funding round. The round was led by Concept Ventures, the first venture capital firm to back AI unicorn Eleven Labs, with participation from NFG Ventures, the firm founded by early Monzo […] The post London-based Acorda raises €2.15 m",
-      "published_at": "2026-11-23T10:31:19+00:00",
+      "title": "Frankfurt-based CommerzVentures closes €50 million Fund IV, betting on early-stage FinTech and AI",
+      "url": "https://www.eu-startups.com/2026/11/frankfurt-based-commerzventures-closes-e50-million-fund-iv-betting-on-early-stage-fintech-and-ai/",
+      "summary": "CommerzVentures, a Frankfurt-based specialist venture capital firm focused on financial services, has closed its fourth fund at €50 million. The fourth fund — CommerzVentures IV (Fund IV) — is anchored by Commerzbank and is deliberately smaller than its predecessors; the firm managed over €550 million across three prior funds, including €300 million in Fund III. […] The post Frankfurt-based Commer",
+      "published_at": "2026-11-24T08:09:41+00:00",
       "topics": [
         "AI & Agents",
         "Early-stage funding"
       ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
+      "event": "other",
+      "priority": 4,
+      "next_action": "Open the original source and decide whether further investigation is useful.",
       "claim_status": "reported_by_source",
       "change_type": "new_article"
     }
