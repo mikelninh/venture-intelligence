@@ -1,68 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T18:59:13+00:00",
-  "status": "ok",
+  "generated_at": "2026-11-25T18:03:50+00:00",
+  "status": "partial",
   "first_run": false,
-  "feed_count": 2,
-  "change_count": 4,
-  "items": [
-    {
-      "id": "d4599c18efba4d5e8c9f",
-      "fingerprint": "97406798132b649bae8f",
-      "source": "EU-Startups",
-      "title": "Bcomp secures €20 million from EIB to scale flax fibre-based alternatives to carbon fibre, glass fibre and plastics",
-      "url": "https://www.eu-startups.com/2026/11/bcomp-secures-e20-million-from-eib-to-scale-flax-fibre-based-alternatives-to-carbon-fibre-glass-fibre-and-plastics/",
-      "summary": "Bcomp, a Fribourg-based CleanTech startup specialising in high-performance bio-based materials, has secured €20 million from the European Investment Bank (EIB) to build a high-volume manufacturing plant in the Romanian city of Timișoara and continue research and development in Fribourg. This EIB backing takes the form of €20 million in venture debt, supporting the company’s €47.6 […] The post Bcom",
-      "published_at": "2026-11-24T11:34:52+00:00",
-      "topics": [
-        "Climate & Energy",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "a5e600af7fe21e1b97a0",
-      "fingerprint": "f741f1941459c2898928",
-      "source": "EU-Startups",
-      "title": "Amsterdam’s Good Heat raises €2 million to replace industrial gas-fired steam boilers with heat batteries",
-      "url": "https://www.eu-startups.com/2026/11/amsterdams-good-heat-raises-e2-million-to-replace-industrial-gas-fired-steam-boilers-with-heat-batteries/",
-      "summary": "Good Heat, an Amsterdam-based startup that delivers zero-carbon heat as a service to industrial heat users, has raised €2 million to support its growing project pipeline. The round is led by SET Ventures, Europe’s leading energy VC, with participation from Shell Ventures and existing investor Investible. In October 2025, the company announced €1.83 million ($2 […] The post Amsterdam’s Good Heat ra",
-      "published_at": "2026-11-24T09:00:10+00:00",
-      "topics": [
-        "Climate & Energy",
-        "Early-stage funding"
-      ],
-      "event": "funding",
-      "priority": 6,
-      "next_action": "Check the primary funding announcement: amount, investors and stage.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    },
-    {
-      "id": "41fc005ebff8a2830ea8",
-      "fingerprint": "965080c79762814f18d0",
-      "source": "EU-Startups",
-      "title": "Frankfurt-based CommerzVentures closes €50 million Fund IV, betting on early-stage FinTech and AI",
-      "url": "https://www.eu-startups.com/2026/11/frankfurt-based-commerzventures-closes-e50-million-fund-iv-betting-on-early-stage-fintech-and-ai/",
-      "summary": "CommerzVentures, a Frankfurt-based specialist venture capital firm focused on financial services, has closed its fourth fund at €50 million. The fourth fund — CommerzVentures IV (Fund IV) — is anchored by Commerzbank and is deliberately smaller than its predecessors; the firm managed over €550 million across three prior funds, including €300 million in Fund III. […] The post Frankfurt-based Commer",
-      "published_at": "2026-11-24T08:09:41+00:00",
-      "topics": [
-        "AI & Agents",
-        "Early-stage funding"
-      ],
-      "event": "other",
-      "priority": 4,
-      "next_action": "Open the original source and decide whether further investigation is useful.",
-      "claim_status": "reported_by_source",
-      "change_type": "new_article"
-    }
+  "feed_count": 1,
+  "change_count": 0,
+  "items": [],
+  "warnings": [
+    "EU-Startups: fetch failed"
   ],
-  "warnings": [],
   "source_note": "Articles report publisher claims, not independently verified business facts. Changes in a feed are not confirmed events.",
-  "next_best_action": "Check the primary funding announcement: amount, investors and stage.",
+  "next_best_action": "No new relevant articles. Nothing urgent to do.",
   "autonomous_external_actions": false
 }
